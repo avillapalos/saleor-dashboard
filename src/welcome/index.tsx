@@ -4,7 +4,7 @@ import Layout from "@dashboard/auth/components/Layout";
 import { Box, Button, Text } from "@saleor/macaw-ui-next";
 import { useAuth } from "@saleor/sdk"; // Assuming useAuth hook is used for logout
 import React from "react";
-import { Link, useHistory } from "react-router-dom";
+import { useHistory } from "react-router";
 
 const SelectionPage = () => {
   const history = useHistory();
