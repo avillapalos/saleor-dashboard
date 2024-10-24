@@ -1,18 +1,22 @@
-import backgroundArt from "@assets/images/login-background.svg";
-import saleorDarkLogo from "@assets/images/logo-dark.svg";
-import saleorLightLogo from "@assets/images/logo-light.svg";
 import { makeStyles, useTheme } from "@saleor/macaw-ui";
 import React from "react";
-import SVG from "react-inlinesvg";
 
 import { useUser } from "..";
 import LoginLoading from "./LoginLoading";
+
+const darkLogo =
+  process.env.TENANT_LOGO_URL_DARK ||
+  "https://comerciame.cdn.prismic.io/comerciame/Zk8RECol0Zci9Yfm_comerciame-logo-blanco.svg?auto=compress,format";
+
+const lightLogo =
+  process.env.TENANT_LOGO_URL_LIGHT ||
+  "https://comerciame.cdn.prismic.io/comerciame/Zk8RDyol0Zci9Yfl_comerciame-logo-simple.svg?auto=compress,format";
 
 const useStyles = makeStyles(
   theme => ({
     logo: {
       display: "block",
-      height: 40,
+      width: 200,
       marginBottom: theme.spacing(4),
     },
     mainPanel: {
@@ -24,8 +28,10 @@ const useStyles = makeStyles(
       flexDirection: "column",
       height: "100vh",
       justifyContent: "center",
+      alignItems: "center",
       padding: theme.spacing(5, 6, 4, 6),
       width: "100%",
+      marginTop: "20px",
     },
     mainPanelContent: {
       [theme.breakpoints.up("xs")]: {
@@ -44,9 +50,9 @@ const useStyles = makeStyles(
       [theme.breakpoints.up("lg")]: {
         gridTemplateColumns: "560px 1fr",
       },
-      "@media (min-width: 1440px)": {
+      /*"@media (min-width: 1440px)": {
         gridTemplateColumns: "780px 1fr",
-      },
+      },*/
       display: "grid",
       gridTemplateColumns: "1fr",
       gap: theme.spacing(3),
@@ -87,15 +93,16 @@ const Layout: React.FC = props => {
   return (
     <div className={classes.root}>
       <div className={classes.mainPanel}>
-        <SVG
+        <img
           className={classes.logo}
-          src={themeType === "dark" ? saleorDarkLogo : saleorLightLogo}
+          src={themeType === "dark" ? darkLogo : lightLogo}
+          alt={"Logo"}
         />
         <div className={classes.mainPanelContent}>{children}</div>
       </div>
-      <div className={classes.sidebar}>
+      {/*<div className={classes.sidebar}>
         <SVG className={classes.sidebarArt} src={backgroundArt} />
-      </div>
+      </div>*/}
     </div>
   );
 };
