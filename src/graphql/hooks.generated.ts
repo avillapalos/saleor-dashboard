@@ -6322,13 +6322,44 @@ export type TriggerWebhookDryRunMutationHookResult = ReturnType<typeof useTrigge
 export type TriggerWebhookDryRunMutationResult = Apollo.MutationResult<Types.TriggerWebhookDryRunMutation>;
 export type TriggerWebhookDryRunMutationOptions = Apollo.BaseMutationOptions<Types.TriggerWebhookDryRunMutation, Types.TriggerWebhookDryRunMutationVariables>;
 export const CheckoutListDocument = gql`
-    query CheckoutList($first: Int, $after: String, $last: Int, $before: String) {
-  checkouts(before: $before, after: $after, first: $first, last: $last) {
+    query CheckoutList($first: Int, $after: String, $last: Int, $before: String, $sortBy: CheckoutSortingInput) {
+  checkouts(
+    before: $before
+    after: $after
+    first: $first
+    last: $last
+    sortBy: $sortBy
+  ) {
     edges {
       cursor
       node {
         id
         created
+        updatedAt
+        email
+        voucherCode
+        channel {
+          id
+          name
+        }
+        lines {
+          variant {
+            product {
+              name
+            }
+            name
+          }
+        }
+        totalPrice {
+          gross {
+            amount
+          }
+        }
+        shippingPrice {
+          gross {
+            amount
+          }
+        }
       }
     }
     pageInfo {
@@ -6357,6 +6388,7 @@ export const CheckoutListDocument = gql`
  *      after: // value for 'after'
  *      last: // value for 'last'
  *      before: // value for 'before'
+ *      sortBy: // value for 'sortBy'
  *   },
  * });
  */

@@ -9452,10 +9452,11 @@ export type CheckoutListQueryVariables = Exact<{
   after?: InputMaybe<Scalars['String']>;
   last?: InputMaybe<Scalars['Int']>;
   before?: InputMaybe<Scalars['String']>;
+  sortBy?: InputMaybe<CheckoutSortingInput>;
 }>;
 
 
-export type CheckoutListQuery = { __typename: 'Query', checkouts: { __typename: 'CheckoutCountableConnection', edges: Array<{ __typename: 'CheckoutCountableEdge', cursor: string, node: { __typename: 'Checkout', id: string, created: any } }>, pageInfo: { __typename: 'PageInfo', hasPreviousPage: boolean, hasNextPage: boolean, startCursor: string | null, endCursor: string | null } } | null };
+export type CheckoutListQuery = { __typename: 'Query', checkouts: { __typename: 'CheckoutCountableConnection', edges: Array<{ __typename: 'CheckoutCountableEdge', cursor: string, node: { __typename: 'Checkout', id: string, created: any, updatedAt: any, email: string | null, voucherCode: string | null, channel: { __typename: 'Channel', id: string, name: string }, lines: Array<{ __typename: 'CheckoutLine', variant: { __typename: 'ProductVariant', name: string, product: { __typename: 'Product', name: string } } }>, totalPrice: { __typename: 'TaxedMoney', gross: { __typename: 'Money', amount: number } }, shippingPrice: { __typename: 'TaxedMoney', gross: { __typename: 'Money', amount: number } } } }>, pageInfo: { __typename: 'PageInfo', hasPreviousPage: boolean, hasNextPage: boolean, startCursor: string | null, endCursor: string | null } } | null };
 
 export type ChannelListQueryVariables = Exact<{ [key: string]: never; }>;
 
