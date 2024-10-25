@@ -1,4 +1,4 @@
-import shoppingIcon from "@assets/images/online-shopping-64.png";
+import shoppingIcon from "@assets/images/online-shopping-100.png";
 import webIcon from "@assets/images/web-100.png";
 import Layout from "@dashboard/auth/components/Layout";
 import { Box, Button, Text } from "@saleor/macaw-ui-next";

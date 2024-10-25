@@ -4,7 +4,6 @@ import Avatar from "@dashboard/components/TableCellAvatar/Avatar";
 import { makeStyles } from "@saleor/macaw-ui";
 import { Box } from "@saleor/macaw-ui-next";
 import React from "react";
-import { Link } from "react-router-dom";
 
 const darkLogo =
   process.env.TENANT_LOGO_URL_DARK ||
@@ -35,9 +34,9 @@ export const MountingPoint: React.FC = props => {
 
   return (
     <Box display="flex" gap={2} paddingX={4} paddingY={2} alignItems="center">
-      <Link to={"/welcome"}>
+      <a href={"/welcome"}>
         <Avatar thumbnail={arrowBackIcon} />
-      </Link>
+      </a>
 
       <img className={classes.logo} src={logo} alt="Logo" />
     </Box>
