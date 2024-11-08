@@ -2919,5 +2919,3071 @@
   "H3Uirw": {
     "context": "create new menu item, header",
     "string": "Agregar Elemento"
+  },
+  "H5NKfr": {
+    "context": "button",
+    "string": "Crear"
+  },
+  "H5yp8O": {
+    "context": "label",
+    "string": "Nombre del tipo de producto"
+  },
+  "H60H6L": {
+    "context": "attribute values list: name column header",
+    "string": "Vista de tienda predeterminada"
+  },
+  "H6NsC1": {
+    "context": "pages section name",
+    "string": "Páginas"
+  },
+  "HAlOn1": {
+    "string": "Nombre"
+  },
+  "HLqWXA": {
+    "context": "voucher value requirement",
+    "string": "Límite de uso"
+  },
+  "HLr8KQ": {
+    "context": "plain text attribute type",
+    "string": "Texto plano"
+  },
+  "HMD+ib": {
+    "string": "Último pedido"
+  },
+  "HN1Gvw": {
+    "context": "option description",
+    "string": "Asignar la línea de pedido a un almacén con la mayor cantidad de stock. Si no hay suficiente stock en un solo almacén, la cantidad restante se asigna al siguiente almacén con más stock y se repite si es necesario."
+  },
+  "HP6m+q": {
+    "string": "Atributos y tipos de producto"
+  },
+  "HQR2y0": {
+    "context": "attribute value is required",
+    "string": "Valor requerido"
+  },
+  "HR9OTW": {
+    "context": "staff member's account",
+    "string": "Activo"
+  },
+  "HRXLYk": {
+    "context": "cta button label",
+    "string": "Contactar"
+  },
+  "HSmg1/": {
+    "context": "gift cards section name",
+    "string": "Tarjetas de regalo"
+  },
+  "HVFq//": {
+    "context": "button",
+    "string": "Copiar token"
+  },
+  "HVlMK2": {
+    "context": "number of variants",
+    "string": "Variantes ({quantity})"
+  },
+  "HW6Vef": {
+    "string": "Esta transacción no es reembolsable"
+  },
+  "HYC6cH": {
+    "context": "input description",
+    "string": "Umbral que no puede ser superado, incluso si los umbrales por canal todavía están disponibles"
+  },
+  "HYHLsB": {
+    "context": "product field",
+    "string": "Exportar ID de variante"
+  },
+  "HYK65C": {
+    "string": "Regla de pedido"
+  },
+  "HaQ8cg": {
+    "context": "button",
+    "string": "Reembolso"
+  },
+  "Hc58JL": {
+    "context": "card title",
+    "string": "Balance después de solicitudes"
+  },
+  "HcQEUk": {
+    "context": "table column header, sold units preorder quantity",
+    "string": "Unidades vendidas"
+  },
+  "HedXnw": {
+    "context": "plugin channel availability status title",
+    "string": "{activeChannelsCount,plural, =0 {Desactivado} other {Activo en {activeChannelsCount}}}"
+  },
+  "Hgz44z": {
+    "context": "dialog header",
+    "string": "Eliminar cupón"
+  },
+  "HivFnX": {
+    "context": "ProductTypeDeleteWarningDialog single no assigned items description",
+    "string": "¿Estás seguro de que deseas eliminar <b>{typeName}</b>? Si lo eliminas, no podrás asignarlo a los productos creados."
+  },
+  "Hj3T7P": {
+    "context": "column title",
+    "string": "Nombre del canal"
+  },
+  "HjUoHK": {
+    "context": "attribute's label'",
+    "string": "Etiqueta predeterminada"
+  },
+  "HjXnIf": {
+    "string": "Gestión de contenido"
+  },
+  "HlCkMT": {
+    "string": "Línea de pedido añadida"
+  },
+  "HlEpii": {
+    "string": "Título del motor de búsqueda"
+  },
+  "HnVtSS": {
+    "context": "search",
+    "string": "Sin resultados"
+  },
+  "HnZCl7": {
+    "context": "search input placeholder",
+    "string": "Buscar países fiscales"
+  },
+  "HqRNN8": {
+    "string": "Soporte"
+  },
+  "HqeqEV": {
+    "context": "create gift card product alert message",
+    "string": "Crear un producto de tarjeta de regalo"
+  },
+  "Hswqx2": {
+    "string": "Eliminar descuentos"
+  },
+  "HvJPcU": {
+    "string": "Categoría eliminada"
+  },
+  "I+1KzL": {
+    "context": "tab name",
+    "string": "Todos los atributos"
+  },
+  "I+UwqI": {
+    "context": "is filter range or value",
+    "string": "igual a"
+  },
+  "I/y4IU": {
+    "context": "alert message",
+    "string": "uno de"
+  },
+  "I1Mz7h": {
+    "string": "Gestionar disponibilidad de canal de la colección"
+  },
+  "I2wCwj": {
+    "context": "swatch attribute image label",
+    "string": "Imagen"
+  },
+  "I5vC7T": {
+    "context": "button label",
+    "string": "Editar razón"
+  },
+  "I7HyJZ": {
+    "context": "order refund amount",
+    "string": "Reembolso máximo"
+  },
+  "I8mqqj": {
+    "context": "PageTypeDeleteWarningDialog single assigned items button label",
+    "string": "Ver páginas"
+  },
+  "IBw72y": {
+    "context": "switch button",
+    "string": "¿Este producto es enviable?"
+  },
+  "ICeshC": {
+    "context": "product type",
+    "string": "Enviable"
+  },
+  "IEpmGQ": {
+    "context": "description",
+    "string": "Usa Saleor Cloud para acceder a aplicaciones de Saleor"
+  },
+  "IF2KbT": {
+    "string": "Saleor Cloud"
+  },
+  "IFWHn0": {
+    "context": "error message",
+    "string": "La dirección de facturación no está configurada"
+  },
+  "IGvQ8k": {
+    "context": "button",
+    "string": "Crear atributo"
+  },
+  "IH47ID": {
+    "string": "Usa el botón de arriba para añadir nuevas variantes de producto"
+  },
+  "IKvOK+": {
+    "context": "Amount error message",
+    "string": "La cantidad debe ser mayor que 0"
+  },
+  "ILgbKN": {
+    "context": "key-value field button add more key-value pairs",
+    "string": "Agregar más"
+  },
+  "IN5iJz": {
+    "context": "value input helper text",
+    "string": "Valor no válido"
+  },
+  "INKsSL": {
+    "context": "Transaction event status - success",
+    "string": "Éxito"
+  },
+  "INNPVX": {
+    "context": "payment status",
+    "string": "Parcialmente pagado"
+  },
+  "IOg+Hh": {
+    "string": "Reembolso con cantidad manual"
+  },
+  "IOshTA": {
+    "context": "header",
+    "string": "Traducción de MenuItem \"{menuItemName}\" - {languageCode}"
+  },
+  "IUeGzv": {
+    "context": "plugin name",
+    "string": "Nombre del plugin"
+  },
+  "IVOjqW": {
+    "context": "gift card bulk create success dialog export button",
+    "string": "Exportar a correo electrónico"
+  },
+  "IYuKD6": {
+    "string": "No se encontraron descuentos"
+  },
+  "Iafyt5": {
+    "context": "page attribute entity type",
+    "string": "Páginas"
+  },
+  "IbVKSH": {
+    "context": "button",
+    "string": "Gestionar"
+  },
+  "Ic7Wln": {
+    "context": "card subtitle",
+    "string": "Selecciona las zonas de envío que serán suministradas a través de este canal. Puedes asignar zonas de envío a múltiples canales."
+  },
+  "Id7C0X": {
+    "context": "section header",
+    "string": "Estás a punto de instalar {name}"
+  },
+  "Id9vlh": {
+    "context": "page seo options description",
+    "string": "Agrega título y descripción para el motor de búsqueda para facilitar la búsqueda de esta página"
+  },
+  "IeoGgH": {
+    "context": "variant created success message",
+    "string": "Variante creada"
+  },
+  "IfiR4M": {
+    "context": "heading, sum of all pending refunds from transactions in order",
+    "string": "Pendiente"
+  },
+  "IhK1F3": {
+    "string": "No se encontraron zonas de envío"
+  },
+  "Ihp4D3": {
+    "context": "header",
+    "string": "Editar medios"
+  },
+  "Ila7WO": {
+    "context": "change warehouse dialog description",
+    "string": "Elige el almacén desde el que quieres cumplir {productName}"
+  },
+  "IoCMjg": {
+    "context": "no collections",
+    "string": "No se encontraron colecciones"
+  },
+  "IoDlcd": {
+    "string": "Slug"
+  },
+  "IqRBql": {
+    "context": "variant name",
+    "string": "Nueva variante"
+  },
+  "Irflxf": {
+    "context": "window title",
+    "string": "Crear categoría"
+  },
+  "IwEQvz": {
+    "context": "success activate alert message",
+    "string": "Tarjeta de regalo {count,plural,one{activada} other{activadas}} exitosamente"
+  },
+  "IyHQr0": {
+    "context": "navigator action",
+    "string": "Ir al pedido #{orderNumber}"
+  },
+  "IyV8CY": {
+    "context": "all authorized amount from transactions in order",
+    "string": "Autorizado"
+  },
+  "IzECoP": {
+    "string": "Buscar pedidos borrador..."
+  },
+  "IzEVek": {
+    "context": "bulk disable label",
+    "string": "Desactivar"
+  },
+  "J/QqOI": {
+    "string": "Este valor ya existe dentro de este atributo"
+  },
+  "J0lNnk": {
+    "context": "column label",
+    "string": "Almacén"
+  },
+  "J3W5LI": {
+    "context": "order line is gift",
+    "string": "Es un regalo"
+  },
+  "J3uE0t": {
+    "context": "section header",
+    "string": "Valores de atributo"
+  },
+  "J4E+jp": {
+    "string": "Nombre de la variante"
+  },
+  "J4NBVR": {
+    "context": "link",
+    "string": "Ver pedidos"
+  },
+  "J5R1SI": {
+    "context": "home get in touch card title",
+    "string": "¿Necesitas ayuda técnica?"
+  },
+  "J7mFhU": {
+    "context": "currency code select",
+    "string": "{code} - {countries}"
+  },
+  "JDz5h8": {
+    "context": "number of subcategories in category",
+    "string": "Subcategorías"
+  },
+  "JE0TAx": {
+    "context": "section name",
+    "string": "Valores"
+  },
+  "JEIN47": {
+    "context": "label",
+    "string": "Cantidad automática"
+  },
+  "JFmOfi": {
+    "context": "button",
+    "string": "Crear producto"
+  },
+  "JFtFgc": {
+    "context": "tabel column header",
+    "string": "Precio de venta"
+  },
+  "JGm7E5": {
+    "context": "option",
+    "string": "Exportar stock para todos los almacenes"
+  },
+  "JI2Xwp": {
+    "context": "dialog title",
+    "string": "Eliminar atributo"
+  },
+  "JJLkzh": {
+    "string": "Selecciona la transacción a reembolsar"
+  },
+  "JJgJwi": {
+    "string": "Seleccionar esto cambiará el idioma de tu panel de control"
+  },
+  "JKbpH9": {
+    "context": "expiry date checkbox label",
+    "string": "La tarjeta de regalo caduca"
+  },
+  "JMBsrr": {
+    "context": "table header available stock label",
+    "string": "Disponible"
+  },
+  "JMbFNo": {
+    "string": "Página creada exitosamente"
+  },
+  "JPH/uP": {
+    "string": "Define los tipos de páginas de contenido utilizadas en tu tienda"
+  },
+  "JQH+Iy": {
+    "context": "resent code success message",
+    "string": "Código reenviado exitosamente al cliente!"
+  },
+  "JRfJD9": {
+    "string": "El plugin puede dejar de funcionar después de borrar este campo. ¿Estás seguro de que deseas continuar?"
+  },
+  "JTcz2G": {
+    "context": "csv file exporting has finished, header",
+    "string": "Exportación de CSV finalizada"
+  },
+  "JV+EiM": {
+    "context": "voucher value",
+    "string": "Valor"
+  },
+  "JVaz1C": {
+    "context": "window title",
+    "string": "Crear Webhook"
+  },
+  "JXRYQg": {
+    "context": "button",
+    "string": "Crear menú"
+  },
+  "Ja7gHc": {
+    "context": "button",
+    "string": "Editar"
+  },
+  "Jb1/3V": {
+    "context": "add shipping carrier button",
+    "string": "Agregar transportista de envío"
+  },
+  "JbUg2b": {
+    "context": "activate app",
+    "string": "¿Estás seguro de que deseas activar {name}? La activación comenzará a recopilar eventos."
+  },
+  "JfKvrV": {
+    "context": "select variant media",
+    "string": "Selecciona un medio de variante específico del producto"
+  },
+  "JftRtx": {
+    "context": "issue gift card dialog title",
+    "string": "Emitir tarjeta de regalo"
+  },
+  "JgNb8X": {
+    "context": "notifier message",
+    "string": "Hubo un error al agregar una nota"
+  },
+  "JgXBAw": {
+    "context": "dropdown label when there are no channels assigned",
+    "string": "Sin canales"
+  },
+  "JiRKgJ": {
+    "context": "dialog search placeholder",
+    "string": "Buscar por nombre de colección, etc..."
+  },
+  "Jj0de8": {
+    "context": "voucher status",
+    "string": "Programado"
+  },
+  "JjeZEG": {
+    "context": "section header",
+    "string": "Organizar producto"
+  },
+  "JkO0jp": {
+    "context": "input description",
+    "string": "{unitsLeft} unidades restantes"
+  },
+  "JmdBa3": {
+    "context": "product availability publish date",
+    "string": "Publicar el"
+  },
+  "JnzDrI": {
+    "context": "discount type",
+    "string": "Cantidad fija"
+  },
+  "Jo01VZ": {
+    "context": "bought by label",
+    "string": "Comprado por"
+  },
+  "JqiqNj": {
+    "string": "Algo salió mal"
+  },
+  "Jsh6+U": {
+    "context": "product type is digital or physical",
+    "string": "Tipo"
+  },
+  "Jwuu4X": {
+    "context": "select product informations to be exported",
+    "string": "Información exportada:"
+  },
+  "JyQoES": {
+    "context": "delete attribute value",
+    "string": "¿Estás seguro de que deseas eliminar el valor \"{name}\"?"
+  },
+  "K+vjtE": {
+    "string": "Buscar variantes"
+  },
+  "K//bUK": {
+    "context": "refund button",
+    "string": "Reembolso"
+  },
+  "K/gnGg": {
+    "string": "Si deseas desactivar este usuario, desmarca la casilla a continuación."
+  },
+  "K/ic0P": {
+    "context": "checkbox label",
+    "string": "Resto del mundo"
+  },
+  "K1ycaD": {
+    "context": "input label",
+    "string": "Valor de reembolso"
+  },
+  "K8xNLe": {
+    "context": "products section name",
+    "string": "Productos"
+  },
+  "KCjd1o": {
+    "context": "dialog title",
+    "string": "Eliminar productos"
+  },
+  "KDvRBi": {
+    "context": "button",
+    "string": "Instalar"
+  },
+  "KFv8hX": {
+    "string": "Ya existe un atributo."
+  },
+  "KGsaGO": {
+    "context": "tooltip",
+    "string": "Esta función está en estado de vista previa y puede estar sujeta a cambios más adelante"
+  },
+  "KHZlmi": {
+    "string": "Tipo de descuento"
+  },
+  "KKQUMK": {
+    "context": "edit menu item, header",
+    "string": "Editar elemento"
+  },
+  "KMxiiF": {
+    "context": "button",
+    "string": "Reintentar"
+  },
+  "KN7zKn": {
+    "string": "Error"
+  },
+  "KOqZv3": {
+    "context": "tooltip, submit form",
+    "string": "Debes otorgar el reembolso primero."
+  },
+  "KPmk40": {
+    "context": "charge status partial",
+    "string": "Parcial"
+  },
+  "KRqgfo": {
+    "string": "El usuario está fuera del alcance de tus permisos"
+  },
+  "KWXwFo": {
+    "context": "grant refund table, column header",
+    "string": "Precio por unidad"
+  },
+  "KXkdMH": {
+    "context": "order discount removed title",
+    "string": "Descuento en el pedido eliminado por"
+  },
+  "KcsJKm": {
+    "context": "error with activatation alert message",
+    "string": "Error al activar la tarjeta de regalo {count,plural,one{tarjeta} other{tarjetas}}"
+  },
+  "KeO51o": {
+    "string": "Canal"
+  },
+  "Kfuqfq": {
+    "context": "transfer funds button",
+    "string": "Transferir fondos"
+  },
+  "Kg0Fiu": {
+    "context": "quantity of fulfilled products",
+    "string": "Cantidad a cumplir"
+  },
+  "KkufwD": {
+    "string": "No se encontraron códigos de cupón"
+  },
+  "KmPicj": {
+    "string": "Nota añadida con éxito"
+  },
+  "KqbfFa": {
+    "context": "expiry date selection info message",
+    "string": "Puedes configurar las tarjetas de regalo para que expiren después de un cierto tiempo tras su compra. Recuerda que en algunos países, la caducidad de las tarjetas de regalo está prohibida por ley."
+  },
+  "Krzyo+": {
+    "context": "shipment refund title",
+    "string": "El envío fue reembolsado"
+  },
+  "KszPFx": {
+    "context": "dialog header",
+    "string": "Anular pago"
+  },
+  "KupNHw": {
+    "context": "product field",
+    "string": "Categoría"
+  },
+  "Kv58Rx": {
+    "context": "default gift card delete description",
+    "string": "{selectedItemsCount,plural,one{¿Estás seguro de que deseas eliminar esta tarjeta de regalo?} other{¿Estás seguro de que deseas eliminar {selectedItemsCount} tarjetas de regalo?}}"
+  },
+  "Kw0jHS": {
+    "context": "created products counter",
+    "string": "{count}/{max} SKUs utilizados"
+  },
+  "Kxiige": {
+    "string": "Token generado"
+  },
+  "Kyyr7D": {
+    "context": "dialog header",
+    "string": "Desasignar Variante de la Venta"
+  },
+  "L/O4LQ": {
+    "context": "order refund amount",
+    "string": "Monto Autorizado"
+  },
+  "L/sNGY": {
+    "string": "Las aplicaciones locales son pares de webhooks personalizados y tokens que se pueden usar para conectar aplicaciones y acceder a la API de Saleor."
+  },
+  "L2tvTm": {
+    "context": "mark as paid strategy checkbox label",
+    "string": "Usar el flujo de Transacción al marcar el pedido como pagado"
+  },
+  "L5IuDw": {
+    "string": "menor"
+  },
+  "L5io1l": {
+    "context": "returned products list title",
+    "string": "Productos devueltos"
+  },
+  "L6+p8a": {
+    "context": "dialog title",
+    "string": "Eliminar grupo de permisos"
+  },
+  "L7N+0y": {
+    "context": "product rating",
+    "string": "Calificación del producto"
+  },
+  "L87bp7": {
+    "string": "Pago del pedido anulado exitosamente"
+  },
+  "LA13a5": {
+    "context": "channel select label",
+    "string": "Canal"
+  },
+  "LATHyi": {
+    "context": "dialog header",
+    "string": "Eliminar Canal: {channelSlug}"
+  },
+  "LEZZkK": {
+    "context": "WarehouseSettings all warehouses description",
+    "string": "Si se selecciona, el cliente podrá elegir este almacén como punto de recogida. Los productos pedidos se pueden enviar aquí desde otro almacén"
+  },
+  "LHPVg/": {
+    "context": "assign countries to shipping zone and save, button",
+    "string": "Asignar y guardar"
+  },
+  "LICZeR": {
+    "context": "weight",
+    "string": "desde {value} {unit}"
+  },
+  "LJPHdt": {
+    "context": "cancelled fulfillment, section header",
+    "string": "Reembolsado y Devuelto"
+  },
+  "LKD6fB": {
+    "string": "Eliminar producto"
+  },
+  "LKoIB1": {
+    "string": "Agrega un título y una descripción para el motor de búsqueda para hacer que este producto sea más fácil de encontrar"
+  },
+  "LLrOK3": {
+    "context": "paragraph, description in manual refund card",
+    "string": "Crea un reembolso manual para pagos no integrados"
+  },
+  "LOSNq0": {
+    "context": "dialog header",
+    "string": "Desasignar Categorías del Cupón"
+  },
+  "LR3HlT": {
+    "string": "Esta contraseña es demasiado corta"
+  },
+  "LVa5ew": {
+    "string": "Saleor encontró un problema inesperado"
+  },
+  "LWmYSU": {
+    "string": "Traducciones completadas"
+  },
+  "LY5dS9": {
+    "context": "Charged transaction amount, data display header",
+    "string": "Cobrado"
+  },
+  "LdNCP/": {
+    "context": "Filter or element text",
+    "string": "O"
+  },
+  "LeJClL": {
+    "context": "Popover title",
+    "string": "Condiciones"
+  },
+  "Ljtqmt": {
+    "context": "page header, order id unknown",
+    "string": "Pedido"
+  },
+  "LkuDEb": {
+    "context": "metadata field value, header",
+    "string": "Valor"
+  },
+  "Lm2Zw7": {
+    "context": "name placeholder",
+    "string": "Webhook sin nombre"
+  },
+  "LmKz3g": {
+    "string": "Tienda en línea"
+  },
+  "LnRlch": {
+    "context": "attribute's editor component entity",
+    "string": "Entidad"
+  },
+  "Lrp9WW": {
+    "string": "Descuento de {value} en la compra de {conditions} a través del {channel}"
+  },
+  "LsgHmZ": {
+    "context": "delete shipping zone",
+    "string": "¿Estás seguro de que deseas eliminar {name}?"
+  },
+  "LshEVn": {
+    "context": "button",
+    "string": "Crear pedido"
+  },
+  "LwU0Vy": {
+    "context": "datagrid title label",
+    "string": "Selecciona las cantidades a reembolsar"
+  },
+  "LwX0Ug": {
+    "context": "Button with Manage app label",
+    "string": "Gestionar aplicación"
+  },
+  "Lx1ima": {
+    "context": "button",
+    "string": "Subir imagen"
+  },
+  "M1uijW": {
+    "context": "collection",
+    "string": "No Publicado"
+  },
+  "M59JhX": {
+    "string": "Manual"
+  },
+  "M6mWHL": {
+    "context": "tooltip helper text",
+    "string": "No tienes permisos para crear un reembolso manual."
+  },
+  "M6s/9e": {
+    "context": "unassign country, dialog header",
+    "string": "Eliminar de la Zona de Envío"
+  },
+  "M8z5WZ": {
+    "context": "WarehouseSettings disabled warehouse description",
+    "string": "Si se selecciona, el cliente no podrá elegir este almacén como punto de recogida"
+  },
+  "M9LXb5": {
+    "context": "no shipping carriers title",
+    "string": "No hay transportistas de envío aplicables"
+  },
+  "MAsLIT": {
+    "context": "custom app token key",
+    "string": "Clave"
+  },
+  "MHVglr": {
+    "context": "deactivate",
+    "string": "Desactivar"
+  },
+  "MIC9W7": {
+    "context": "WarehouseSettings pickup title",
+    "string": "Recogida"
+  },
+  "MIp3c7": {
+    "context": "input adornment helper text",
+    "string": "de {value}"
+  },
+  "MJ2jZQ": {
+    "string": "Total"
+  },
+  "MJBAqv": {
+    "context": "column title used by/customer",
+    "string": "Usado por"
+  },
+  "MKtgZB": {
+    "string": "Solo los usuarios del personal pueden acceder al panel de control"
+  },
+  "MNZY28": {
+    "context": "table column header",
+    "string": "Límite de canal"
+  },
+  "MPfyne": {
+    "string": "¿Estás seguro de que deseas enviar esta factura: {invoiceNumber} al cliente?"
+  },
+  "MQwT1W": {
+    "context": "activate",
+    "string": "Activar"
+  },
+  "MSItJD": {
+    "string": "Estás a punto de salir del Panel de Control. ¿Quieres continuar?"
+  },
+  "MTGT8E": {
+    "context": "column header",
+    "string": "N.º de pedidos"
+  },
+  "MTl5o6": {
+    "context": "new discount label",
+    "string": "Nuevo valor de descuento"
+  },
+  "MVU6ol": {
+    "context": "exceeded permissions description",
+    "string": "Los permisos de este grupo superan los tuyos. Solo puedes gestionar permisos que tengas."
+  },
+  "MWSacl": {
+    "string": "Multicanal"
+  },
+  "MXZuVP": {
+    "context": "remove country from shipping zone and save, button",
+    "string": "Eliminar y guardar"
+  },
+  "MZDkkX": {
+    "context": "button label",
+    "string": "Todos"
+  },
+  "MaTR88": {
+    "context": "header",
+    "string": "Integraciones"
+  },
+  "MbZHXE": {
+    "context": "column title balance",
+    "string": "Balance"
+  },
+  "McN+wq": {
+    "context": "customers section name",
+    "string": "Clientes"
+  },
+  "MdFdbd": {
+    "string": "Eliminar regla"
+  },
+  "MewrtN": {
+    "context": "section header",
+    "string": "Cumplimiento"
+  },
+  "MgdgpT": {
+    "context": "customer input label",
+    "string": "Cliente"
+  },
+  "MjUyhA": {
+    "context": "section subheader",
+    "string": "Miembro activo desde {date}"
+  },
+  "MmGlkp": {
+    "context": "dialog header",
+    "string": "Desasignar Colecciones del Cupón"
+  },
+  "Mmo9k2": {
+    "context": "table header warehouse stock label",
+    "string": "Stock en almacén"
+  },
+  "MpR4zK": {
+    "context": "customer details, header",
+    "string": "Detalles de {fullName}"
+  },
+  "MwfSVA": {
+    "context": "input helper text",
+    "string": "Los clientes no pueden añadir cantidades a un solo carrito que superen el límite cuando se proporciona el valor."
+  },
+  "MxhVZv": {
+    "string": "¿Estás seguro de que deseas eliminar la imagen de la colección?"
+  },
+  "MyM2oR": {
+    "context": "window title",
+    "string": "Crear variante"
+  },
+  "Myx1Qp": {
+    "context": "add discount button",
+    "string": "Agregar Descuento"
+  },
+  "MzXBdd": {
+    "context": "Refund failure status",
+    "string": "Fallo"
+  },
+  "N2SbNc": {
+    "string": "{counter,plural,one{¿Estás seguro de que deseas eliminar este cliente?} other{¿Estás seguro de que deseas eliminar {displayQuantity} clientes?}}"
+  },
+  "N3Zot1": {
+    "context": "button",
+    "string": "Cambia tu contraseña"
+  },
+  "N43t3/": {
+    "context": "error message",
+    "string": "Número no establecido para una factura"
+  },
+  "N5UuEK": {
+    "context": "header",
+    "string": "Artículos listos para enviar"
+  },
+  "N6lfS/": {
+    "context": "header",
+    "string": "Campo de Eliminación de Autorización"
+  },
+  "N76zUg": {
+    "context": "page header",
+    "string": "Crear Cliente"
+  },
+  "N7XGzW": {
+    "context": "error message",
+    "string": "Este nombre ya está en uso. Proporcione otro."
+  },
+  "NBP8uu": {
+    "context": "page header",
+    "string": "Producto Nuevo"
+  },
+  "ND5x+V": {
+    "string": "Estamos generando la factura que solicitaste. Por favor espera unos momentos."
+  },
+  "NDm2Fe": {
+    "context": "page title",
+    "string": "Crear Tarifa de Peso"
+  },
+  "NEJo1I": {
+    "context": "dialog content",
+    "string": "¿Estás seguro de que deseas eliminar {voucherCode}?"
+  },
+  "NGc9kE": {
+    "string": "Tipo de página eliminado"
+  },
+  "NJbzcP": {
+    "context": "dialog header",
+    "string": "Cancelar Pedidos"
+  },
+  "NL6mvR": {
+    "string": "Visita la Tienda de Aplicaciones para reemplazar con la Aplicación"
+  },
+  "NLNonj": {
+    "context": "send to channel select label",
+    "string": "Enviar al canal"
+  },
+  "NLybdq": {
+    "context": "voucher channel",
+    "string": "Canal"
+  },
+  "NNT3Lp": {
+    "context": "collections section name",
+    "string": "Colecciones"
+  },
+  "NPIBGp": {
+    "context": "heading, sum of all granted refunds from transactions in order",
+    "string": "Concedido"
+  },
+  "NPfmdK": {
+    "context": "webhook input label",
+    "string": "Clave Secreta"
+  },
+  "NQgbYA": {
+    "string": "Configuración de la Cuenta"
+  },
+  "NUevU9": {
+    "context": "attribute values list: slug column header",
+    "string": "Muestra"
+  },
+  "NWA+MK": {
+    "context": "dialog content",
+    "string": "<b>Importante:</b> Los reembolsos deben emitirse <b>manualmente</b> después de la cancelación del pedido."
+  },
+  "NWxomz": {
+    "string": "Estado de Cumplimiento"
+  },
+  "NZtcLb": {
+    "context": "gift card bulk create success dialog content",
+    "string": "Hemos emitido todas las tarjetas de regalo solicitadas. Puedes descargar la lista de nuevas tarjetas de regalo usando el botón de abajo."
+  },
+  "NelCIl": {
+    "context": "content section name",
+    "string": "Contenido"
+  },
+  "NgCb99": {
+    "context": "order line discount updated title",
+    "string": "Descuento en {productName} actualizado por"
+  },
+  "NhQboB": {
+    "context": "dialog header",
+    "string": "Saleor no pudo cancelar el pedido"
+  },
+  "NivJal": {
+    "context": "section header",
+    "string": "Todas las Subcategorías"
+  },
+  "Nj9iSB": {
+    "context": "table header column",
+    "string": "Tasa de impuestos"
+  },
+  "NlEVVT": {
+    "context": "label for button",
+    "string": "Crear clase"
+  },
+  "NlSJMM": {
+    "context": "channels section name",
+    "string": "Canales"
+  },
+  "NmK6zy": {
+    "string": "Pago"
+  },
+  "NmXWPM": {
+    "string": "Introduce el monto del reembolso directamente. No se realizarán cálculos adicionales."
+  },
+  "NnhrxZ": {
+    "context": "amount of sent refund for transaction",
+    "string": "Reembolso de {transactionType}"
+  },
+  "No4lyL": {
+    "context": "header field name, header",
+    "string": "Nombre"
+  },
+  "NqxvFh": {
+    "context": "navigator placeholder",
+    "string": "Escribe Comando"
+  },
+  "Nsk5WL": {
+    "context": "link",
+    "string": "Obtener soporte"
+  },
+  "NtFVFS": {
+    "context": "weight",
+    "string": "{value} {unit}"
+  },
+  "Nv/toB": {
+    "context": "button",
+    "string": "Asignar y guardar"
+  },
+  "NvwS/N": {
+    "context": "gift card history message",
+    "string": "La tarjeta de regalo fue desactivada"
+  },
+  "NwQXZp": {
+    "context": "status",
+    "string": "No activo"
+  },
+  "NxRsHQ": {
+    "context": "section header",
+    "string": "Cumplimiento - #{fulfilmentId}"
+  },
+  "NxeDbG": {
+    "context": "image upload",
+    "string": "Suelta aquí para subir"
+  },
+  "NzifUg": {
+    "context": "window title",
+    "string": "Cumplir Pedido"
+  },
+  "O22NIZ": {
+    "context": "deletion error message",
+    "string": "No se puede eliminar el grupo que está fuera del alcance de tus permisos"
+  },
+  "O4QNFx": {
+    "context": "alert message",
+    "string": "No hay productos disponibles en este canal."
+  },
+  "O95R3Z": {
+    "string": "Teléfono"
+  },
+  "O987DI": {
+    "context": "deactivate named app",
+    "string": "¿Estás seguro de que deseas desactivar {name}? Tus datos se conservarán hasta que vuelvas a activar la aplicación."
+  },
+  "O9QPe1": {
+    "context": "dialog content",
+    "string": "{counter,plural,one{¿Estás seguro de que deseas eliminar este cupón?} other{¿Estás seguro de que deseas eliminar {displayQuantity} cupones?}}"
+  },
+  "OA+fw+": {
+    "context": "conjunction, choice between going to dashboard or refreshing page",
+    "string": "o"
+  },
+  "OAcl78": {
+    "context": "order, granted refunds card, title",
+    "string": "Reembolsos Concedidos"
+  },
+  "OBQ+th": {
+    "context": "WarehouseSettings disabled warehouse label",
+    "string": "Desactivado"
+  },
+  "OFTsI1": {
+    "string": "Intentos:"
+  },
+  "OFW7nq": {
+    "context": "placeholder",
+    "string": "Buscar por nombre de página, etc..."
+  },
+  "OGemtu": {
+    "context": "payment status",
+    "string": "Parcialmente reembolsado"
+  },
+  "OGm8wO": {
+    "context": "button",
+    "string": "Crear Canal"
+  },
+  "OK5+Fh": {
+    "string": "Variante"
+  },
+  "OKGd/k": {
+    "context": "order history message",
+    "string": "El pedido fue creado a partir de un borrador"
+  },
+  "OPtrMg": {
+    "context": "header",
+    "string": "Detalles de {webhookName}"
+  },
+  "ORQvOg": {
+    "string": "No tienes permiso para realizar esta acción"
+  },
+  "OSnO9P": {
+    "string": "Todas las transacciones son no reembolsables"
+  },
+  "OTDo9I": {
+    "context": "tab name",
+    "string": "Todos los miembros del personal"
+  },
+  "OVOU1z": {
+    "context": "section header",
+    "string": "Metadatos"
+  },
+  "OaA0f9": {
+    "string": "Has alcanzado el límite de miembros del personal, ya no podrás añadir más miembros a tu tienda. Si deseas aumentar tu límite, contacta con el personal de administración sobre elevar tus límites."
+  },
+  "OaKyz4": {
+    "context": "input label",
+    "string": "Reserva de stock para usuario autenticado (en minutos)"
+  },
+  "ObRk1O": {
+    "string": "Si esta opción está desactivada, el descuento se contará para cada producto elegible"
+  },
+  "Oe62bR": {
+    "context": "product availability",
+    "string": "Disponibilidad"
+  },
+  "Of19Pn": {
+    "context": "Types",
+    "string": "Tipos de Página"
+  },
+  "OhFGpX": {
+    "context": "button",
+    "string": "Asignar miembros"
+  },
+  "OhdPS1": {
+    "context": "amount of refunded money",
+    "string": "Monto"
+  },
+  "OrMr/k": {
+    "context": "window title",
+    "string": "Crear Canal"
+  },
+  "OrR3Qy": {
+    "context": "no products",
+    "string": "No se encontraron productos"
+  },
+  "Orgqv4": {
+    "context": "numeric attribute unit",
+    "string": "Unidad"
+  },
+  "OtMtzH": {
+    "string": "Producto no disponible en los canales de la colección"
+  },
+  "OwG/0z": {
+    "string": "Menú eliminado"
+  },
+  "OzHN0Z": {
+    "context": "order history message",
+    "string": "Se enviaron enlaces a los productos digitales del pedido"
+  },
+  "P+kVxW": {
+    "context": "card description",
+    "string": "El usuario está asignado a:"
+  },
+  "P/EDn1": {
+    "context": "order history message",
+    "string": "El pedido fue pagado completamente"
+  },
+  "P/oGtb": {
+    "context": "product availability",
+    "string": "Disponible para compra"
+  },
+  "P5twxk": {
+    "context": "link",
+    "string": "Activar"
+  },
+  "P79U4b": {
+    "context": "attribute's slug short code label",
+    "string": "Código de Atributo"
+  },
+  "P7PLVj": {
+    "string": "Fecha"
+  },
+  "P9YktI": {
+    "context": "save preset, header",
+    "string": "Guardar vista preestablecida"
+  },
+  "PALiyV": {
+    "context": "modal title",
+    "string": "Editar motivo de reembolso para esta línea"
+  },
+  "PAqicb": {
+    "context": "button",
+    "string": "Cancelar pedido"
+  },
+  "PBd/e+": {
+    "context": "dialog header",
+    "string": "Cambiar dirección del pedido"
+  },
+  "PCoO4D": {
+    "context": "error message",
+    "string": "Página no encontrada."
+  },
+  "PDw0YN": {
+    "context": "open new window button",
+    "string": "Abrir este producto en GraphiQL"
+  },
+  "PFXGaR": {
+    "string": "Zonas de Envío"
+  },
+  "PFnobO": {
+    "string": "mayor"
+  },
+  "PHUcrU": {
+    "context": "date when order was placed",
+    "string": "Fecha"
+  },
+  "PJDcQs": {
+    "context": "set balance button label",
+    "string": "Establecer Balance"
+  },
+  "PKJqcq": {
+    "string": "Factura en Proceso de Generación"
+  },
+  "PLCwT/": {
+    "context": "search results",
+    "string": "Mostrar más"
+  },
+  "PLX6FH": {
+    "context": "sum of all manual refunds for transaction",
+    "string": "Reembolso manual"
+  },
+  "PNq9W/": {
+    "context": "back button",
+    "string": "Volver"
+  },
+  "PTW56s": {
+    "context": "alert",
+    "string": "Se alcanzó el límite de canales"
+  },
+  "PV0SQd": {
+    "context": "WarehousesSection select field label",
+    "string": "Almacén"
+  },
+  "PX2zWy": {
+    "context": "customer is not set in draft order",
+    "string": "No establecido"
+  },
+  "PXatmC": {
+    "string": "Cliente Eliminado"
+  },
+  "PXx4Jk": {
+    "context": "window title",
+    "string": "Crear Producto"
+  },
+  "PbqNhi": {
+    "context": "order status",
+    "string": "Parcialmente cumplido"
+  },
+  "PcPMjC": {
+    "context": "order history message",
+    "string": "Cumplimiento en espera de aprobación"
+  },
+  "PcQRxi": {
+    "context": "gift card history message",
+    "string": "La tarjeta de regalo fue comprada en el pedido {orderNumber}"
+  },
+  "PctLol": {
+    "context": "no channels found title",
+    "string": "No se encontraron canales"
+  },
+  "PiSXjb": {
+    "context": "check to require numeric attribute unit",
+    "string": "Seleccionar unidad"
+  },
+  "PilTI6": {
+    "context": "issue gift card button label",
+    "string": "Emitir"
+  },
+  "PkCmGU": {
+    "context": "install button",
+    "string": "Instalar Aplicación"
+  },
+  "PkjQS6": {
+    "context": "description",
+    "string": "No se encontraron resultados"
+  },
+  "PlAdWI": {
+    "string": "Estás yendo a"
+  },
+  "Pnj+JH": {
+    "context": "key-value field input",
+    "string": "Valor"
+  },
+  "Pp/7T7": {
+    "string": "{counter,plural,one{¿Estás seguro de que deseas eliminar esta categoría?} other{¿Estás seguro de que deseas eliminar {displayQuantity} categorías?}}"
+  },
+  "PqMbma": {
+    "context": "add attribute value",
+    "string": "Agregar Valor"
+  },
+  "PsRG+v": {
+    "context": "use attribute in filtering",
+    "string": "Filtrable en la Tienda en Línea"
+  },
+  "PsclSa": {
+    "context": "page header",
+    "string": "Crear Cupón"
+  },
+  "PuQb0P": {
+    "string": "Recompensa"
+  },
+  "PvrceS": {
+    "context": "Refund draft status",
+    "string": "Borrador"
+  },
+  "Pyjarj": {
+    "string": "Esta tarifa de envío no tiene códigos postales asignados"
+  },
+  "Q/Nbku": {
+    "context": "product field",
+    "string": "Tipo"
+  },
+  "Q0JJ4F": {
+    "context": "dialog header",
+    "string": "Eliminar Cupones"
+  },
+  "Q1HhPk": {
+    "context": "table head",
+    "string": "Tipo de Producto"
+  },
+  "Q1Uzbb": {
+    "string": "No se encontraron productos"
+  },
+  "Q2UXlW": {
+    "context": "modal button url upload",
+    "string": "Subir URL"
+  },
+  "Q2us5X": {
+    "context": "Dry run icon label",
+    "string": "Prueba"
+  },
+  "Q47ovw": {
+    "context": "activate app",
+    "string": "¿Estás seguro de que deseas activar esta aplicación? Activarla comenzará a recopilar eventos."
+  },
+  "Q4m1CG": {
+    "string": "Editar Producto"
+  },
+  "Q55cTG": {
+    "context": "order refund amount",
+    "string": "Reembolsado previamente"
+  },
+  "Q6VRrE": {
+    "context": "dialog content",
+    "string": "{counter,plural,one{¿Estás seguro de que deseas eliminar este borrador de pedido?} other{¿Estás seguro de que deseas eliminar {displayQuantity} borradores de pedidos?}}"
+  },
+  "Q6wcZ5": {
+    "string": "Primer Nombre"
+  },
+  "Q7uuDr": {
+    "context": "attribute slug input field helper text",
+    "string": "Esto se usa internamente. Asegúrate de no usar espacios"
+  },
+  "Q8Qw5B": {
+    "string": "Descripción"
+  },
+  "Q8mpW3": {
+    "string": "Cupón creado exitosamente"
+  },
+  "Q8wHwJ": {
+    "string": "Colección eliminada"
+  },
+  "Q9wTrz": {
+    "context": "caption",
+    "string": "Si está habilitado, podrás usar este atributo para filtrar productos en la lista de productos."
+  },
+  "QAisk4": {
+    "context": "Webhook events header",
+    "string": "Eventos del Webhook"
+  },
+  "QBxN6z": {
+    "context": "is filter range or value",
+    "string": "entre"
+  },
+  "QCwBUI": {
+    "context": "button",
+    "string": "Eliminar Búsqueda"
+  },
+  "QFBjlV": {
+    "context": "error message",
+    "string": "Ya existe stock para este almacén en esta variante de producto"
+  },
+  "QFCUEt": {
+    "string": "El Slug debe ser único"
+  },
+  "QGjJcT": {
+    "context": "number of products",
+    "string": "Productos"
+  },
+  "QH74y5": {
+    "context": "table header name col label",
+    "string": "Nombre"
+  },
+  "QHDtwH": {
+    "string": "Tiene categoría"
+  },
+  "QJG+d/": {
+    "context": "staff added type order discount",
+    "string": "Agregado por el personal"
+  },
+  "QL4a0Z": {
+    "context": "alert message",
+    "string": "No publicado en este canal"
+  },
+  "QLVddq": {
+    "context": "button",
+    "string": "Crear cliente"
+  },
+  "QM9P8G": {
+    "context": "dialog header",
+    "string": "Asignar Atributo"
+  },
+  "QSnh4Y": {
+    "context": "add button label",
+    "string": "Agregar"
+  },
+  "QUyUJy": {
+    "string": "Producto Principal"
+  },
+  "QVNg8A": {
+    "context": "product field",
+    "string": "Cobrar Impuestos"
+  },
+  "QX0gQb": {
+    "context": "radio button label",
+    "string": "Usa la lista de productos para sugerir el monto del reembolso. Ideal para reembolsar artículos específicos o el pedido completo."
+  },
+  "QZVD+5": {
+    "context": "button, unassign attribute from object",
+    "string": "Desasignar y guardar"
+  },
+  "Qb2XN5": {
+    "string": "La función \"Marcar como pagado\" crea un {link} - utilizado por Aplicaciones de Pago"
+  },
+  "QclvqG": {
+    "context": "input label",
+    "string": "Límite de línea de pago"
+  },
+  "QdGzUf": {
+    "context": "number of collections",
+    "string": "Colecciones ({quantity})"
+  },
+  "Qe4XHv": {
+    "context": "years after label",
+    "string": "años después de emisión"
+  },
+  "QiN4hv": {
+    "context": "active",
+    "string": "Activo"
+  },
+  "QirE3M": {
+    "string": "Fecha de Inicio"
+  },
+  "Qj/3sH": {
+    "context": "limit voucher",
+    "string": "Limitar el número de veces que este descuento se puede usar en total"
+  },
+  "QjPJ78": {
+    "context": "close full-screen",
+    "string": "Cerrar"
+  },
+  "QkFeOa": {
+    "context": "order refund amount button",
+    "string": "Reembolso"
+  },
+  "Ql7OM1": {
+    "string": "Realizar un reembolso manual activará de inmediato una solicitud de reembolso y disminuirá el monto cobrado de la transacción, impactando el saldo del pedido."
+  },
+  "QooeI/": {
+    "context": "button",
+    "string": "Crear Cliente"
+  },
+  "Qovenh": {
+    "string": "Usuario anónimo"
+  },
+  "Qox+kb": {
+    "string": "en el campo {fieldName}"
+  },
+  "QpBqa9": {
+    "context": "label for radio button",
+    "string": "Los precios de los productos se ingresan sin impuestos"
+  },
+  "Qph0GE": {
+    "context": "dialog content",
+    "string": "Agregar una nueva dirección:"
+  },
+  "QqnNUm": {
+    "string": "Visible en el listado"
+  },
+  "QslFl8": {
+    "context": "add new refund button",
+    "string": "Nuevo reembolso"
+  },
+  "QzseV7": {
+    "context": "dialog header",
+    "string": "Eliminar Menú"
+  },
+  "R98JLZ": {
+    "context": "OrderCustomer Fulfillment from All Warehouses",
+    "string": "Cumplir desde Todos los Almacenes"
+  },
+  "RBxYJf": {
+    "context": "sale status",
+    "string": "Expirado"
+  },
+  "REVk27": {
+    "context": "info text",
+    "string": "Configura una fecha de fin de preventa. Cuando se alcance la fecha de fin, el producto se pasará automáticamente de preventa a venta estándar"
+  },
+  "RH+aOF": {
+    "context": "use attribute in filtering",
+    "string": "Usar en Filtrado"
+  },
+  "RK6l3Z": {
+    "context": "radio button label",
+    "string": "Reembolso con monto manual"
+  },
+  "RLBLPQ": {
+    "context": "no warehouses info",
+    "string": "No hay almacenes configurados para tu tienda. Para agregar cantidad de stock al producto, por favor <a>configura un almacén</a>"
+  },
+  "RLTaAR": {
+    "context": "order history message",
+    "string": "La dirección del pedido fue actualizada"
+  },
+  "RLYfMF": {
+    "context": "checkbox label",
+    "string": "Confirmar automáticamente todos los pedidos"
+  },
+  "RLZ1jd": {
+    "context": "delete gift cards with balance description",
+    "string": "{selectedItemsCount,plural,one{La tarjeta de regalo que estás a punto de eliminar tiene saldo disponible. Al eliminar esta tarjeta podrías quitar el saldo disponible para tu cliente.} other{Estás a punto de eliminar tarjetas de regalo con saldo disponible. ¿Estás seguro de que deseas hacerlo?}}"
+  },
+  "RMB6fU": {
+    "context": "button",
+    "string": "Crear Token"
+  },
+  "RQUkVW": {
+    "string": "Gestiona a tus empleados y sus permisos"
+  },
+  "RUzdUH": {
+    "string": "No se encontraron tarifas de envío"
+  },
+  "RXPGi/": {
+    "context": "page title",
+    "string": "Crear Tarifa de Precio"
+  },
+  "RXbkle": {
+    "context": "copy code button label",
+    "string": "Copiar código"
+  },
+  "RY4PJY": {
+    "context": "information",
+    "string": "La instalación falló"
+  },
+  "RZ32u5": {
+    "context": "PageTypeDeleteWarningDialog single consent label",
+    "string": "Sí, quiero eliminar este tipo de página y las páginas asignadas"
+  },
+  "RZDxej": {
+    "context": "Popover trigger text (button)",
+    "string": "Filtros {count, plural, =0 {} other {({count})} }"
+  },
+  "RZmdM3": {
+    "context": "delete page types",
+    "string": "{counter,plural,one{¿Estás seguro de que deseas eliminar este tipo de página? Después de hacerlo no podrás revertir los cambios.} other{¿Estás seguro de que deseas eliminar {displayQuantity} tipos de página? Después de hacerlo no podrás revertir los cambios.}}"
+  },
+  "RaycYK": {
+    "context": "button",
+    "string": "Guardar"
+  },
+  "Rd0s80": {
+    "context": "no cards found title message",
+    "string": "No se encontraron tarjetas de regalo"
+  },
+  "RfPJ1E": {
+    "context": "issue card button label",
+    "string": "Emitir tarjeta"
+  },
+  "Rfk+8B": {
+    "context": "tax classes menu label when there are no tax classes",
+    "string": "No hay clases de impuestos"
+  },
+  "Rj8LxK": {
+    "string": "Agrega un título y una descripción para el motor de búsqueda para hacer que esta colección sea más fácil de encontrar"
+  },
+  "RjT+Vo": {
+    "context": "label",
+    "string": "Túnel - desarrollo"
+  },
+  "Rjs1CD": {
+    "context": "button",
+    "string": "Continuar"
+  },
+  "RlbhwF": {
+    "context": "product no longer exists error description",
+    "string": "Este producto ya no está en la base de datos, por lo que no se puede reemplazar ni devolver"
+  },
+  "RlfqSV": {
+    "string": "No se encontraron pedidos"
+  },
+  "Rp/Okl": {
+    "string": "Unidad de Peso de Envío"
+  },
+  "Rpfa+t": {
+    "context": "dialog header",
+    "string": "Desasignar Atributo del Tipo de Página"
+  },
+  "RqtZQ6": {
+    "context": "tax classes card header",
+    "string": "Tasas de clase de impuestos"
+  },
+  "RrCui3": {
+    "string": "Resumen"
+  },
+  "Rsknyh": {
+    "context": "order does not require shipping",
+    "string": "no aplica"
+  },
+  "Ryh3iR": {
+    "context": "header",
+    "string": "Crear Webhook"
+  },
+  "RzDYi8": {
+    "context": "checkbox label",
+    "string": "Establecer el mismo para la dirección de facturación"
+  },
+  "RzsKm8": {
+    "string": "Métodos de Envío"
+  },
+  "S/yAtJ": {
+    "context": "total price",
+    "string": "Total"
+  },
+  "S1p0Ja": {
+    "string": "La aplicación tendrá acceso a nuevos permisos. A partir de ahora podrá usarlos para realizar operaciones que estos permisos permiten. Debes asegurarte de confiar en la aplicación antes de aprobar."
+  },
+  "S22jIs": {
+    "context": "button",
+    "string": "Establecer nueva contraseña"
+  },
+  "S2xLxV": {
+    "context": "search placeholder",
+    "string": "Buscar por nombre de producto, atributo, tipo de producto, etc..."
+  },
+  "S5/nSq": {
+    "context": "grant refund table, column header",
+    "string": "Cantidad"
+  },
+  "S7Rwl0": {
+    "context": "stock exceeded action question label",
+    "string": "¿Estás seguro de que deseas cumplir con esos productos de todos modos?"
+  },
+  "S7j+Wf": {
+    "context": "unassign attribute from product type, button",
+    "string": "Desasignar"
+  },
+  "S8kqP9": {
+    "string": "Condiciones"
+  },
+  "S90DJO": {
+    "context": "Button with app settings label",
+    "string": "Configuración de la aplicación"
+  },
+  "SBb6Ej": {
+    "context": "select a warehouse to fulfill product from",
+    "string": "Seleccionar almacén..."
+  },
+  "SBlTvZ": {
+    "context": "Refund status pending",
+    "string": "Pendiente"
+  },
+  "SC/eNC": {
+    "context": "Payment card title",
+    "string": "Estado del pago"
+  },
+  "SGdcJD": {
+    "string": "Ingresar código"
+  },
+  "SHm7ee": {
+    "string": "Buscar por nombre de producto, atributo, tipo de producto, etc..."
+  },
+  "SI3/nl": {
+    "string": "Nada cambiará en términos de permisos. El panel redirigirá a la aplicación e informará que rechazaste la solicitud."
+  },
+  "SKFr04": {
+    "string": "Atributo no encontrado."
+  },
+  "SM+yG0": {
+    "context": "input label",
+    "string": "SKU (Unidad de Mantenimiento de Stock)"
+  },
+  "SMakqb": {
+    "context": "customer contact section, header",
+    "string": "Información de contacto"
+  },
+  "SNiyXb": {
+    "context": "numeric attribute type",
+    "string": "Numérico"
+  },
+  "SO56cv": {
+    "context": "success deactivate alert message",
+    "string": "Desactivado con éxito {count,plural,one{tarjeta} other{tarjetas}} de regalo"
+  },
+  "SPBLzT": {
+    "context": "header",
+    "string": "Atributo de traducción \"{attribute}\" - {languageCode}"
+  },
+  "SPp3cx": {
+    "context": "alert message",
+    "string": "No se pueden realizar pedidos en un canal inactivo."
+  },
+  "SRMNCS": {
+    "string": "Entregas pendientes y fallidas (últimas 10)"
+  },
+  "SSWFo8": {
+    "context": "window title",
+    "string": "Crear Tipo de Producto"
+  },
+  "STJx8N": {
+    "context": "change button label",
+    "string": "Cambiar"
+  },
+  "SUbxSK": {
+    "context": "product weight",
+    "string": "Peso"
+  },
+  "SZH0fw": {
+    "context": "set variant as default, button",
+    "string": "Establecer como predeterminado"
+  },
+  "SZt9kC": {
+    "context": "export filtered items to csv file",
+    "string": "Búsqueda actual ({number})"
+  },
+  "SceSNp": {
+    "string": "Eliminar los siguientes permisos:"
+  },
+  "Sjd7wm": {
+    "context": "product filter label",
+    "string": "Producto"
+  },
+  "SpngiS": {
+    "context": "sale status",
+    "string": "Estado"
+  },
+  "SqcGBK": {
+    "context": "channel availability dialog header",
+    "string": "Gestionar Disponibilidad del Canal"
+  },
+  "SqhC7g": {
+    "context": "checkbox label, fulfillment approval",
+    "string": "Enviar detalles de envío al cliente"
+  },
+  "Sxzua5": {
+    "context": "order payment",
+    "string": "Pagado"
+  },
+  "T/5OyA": {
+    "string": "Aún sin traducción"
+  },
+  "T/dYnE": {
+    "context": "plugin filters error messages status",
+    "string": "El estado no está seleccionado"
+  },
+  "T0Mfxq": {
+    "context": "product status title",
+    "string": "{channelCount} {channelCount,plural, =1 {Canal} other {Canales}}"
+  },
+  "T1f2Yl": {
+    "string": "Nombre de Variante"
+  },
+  "T34dJq": {
+    "context": "Displayed when order has no payment",
+    "string": "Este pedido aún no tiene pago."
+  },
+  "T3cLGs": {
+    "context": "alert link message",
+    "string": "configuración de zonas de envío"
+  },
+  "T4GOiX": {
+    "string": "Fecha de Fin"
+  },
+  "T4wa2Y": {
+    "context": "global config plugin status popup title",
+    "string": "Plugin Global"
+  },
+  "T5nU7u": {
+    "context": "header",
+    "string": "Crear Token"
+  },
+  "T6dXGG": {
+    "context": "header",
+    "string": "Crear Variante"
+  },
+  "T83iU7": {
+    "string": "Buscar categorías..."
+  },
+  "T8rvXs": {
+    "context": "order subtotal price",
+    "string": "Subtotal"
+  },
+  "TBdxTP": {
+    "context": "promotion type order discount",
+    "string": "Promoción"
+  },
+  "TBftMD": {
+    "context": "button. form submit, grant refund edit",
+    "string": "Editar reembolso otorgado"
+  },
+  "TC/EOG": {
+    "context": "status section title",
+    "string": "Estado en canal"
+  },
+  "TCR639": {
+    "context": "order history message",
+    "string": "El pago falló"
+  },
+  "TDhHMi": {
+    "string": "Esto debe ser único"
+  },
+  "TE4fIS": {
+    "string": "Ciudad"
+  },
+  "TGX4T1": {
+    "string": "Vista previa del motor de búsqueda"
+  },
+  "THpf1b": {
+    "context": "product availability available date",
+    "string": "Establecer disponible el"
+  },
+  "TJ7WHA": {
+    "context": "tax strategy combobox choice",
+    "string": "Usar aplicación de impuestos"
+  },
+  "TKmub+": {
+    "string": "Este campo es obligatorio"
+  },
+  "TLDkvR": {
+    "context": "transaction event type, transaction was cancelled / voided",
+    "string": "Cancelar"
+  },
+  "TLNf6K": {
+    "context": "window title",
+    "string": "Pedido Borrador #{orderNumber}"
+  },
+  "TLYeo5": {
+    "context": "label",
+    "string": "Descripción de la Tarifa de Envío"
+  },
+  "TOMgXz": {
+    "context": "button",
+    "string": "Restablecer"
+  },
+  "TPW2tP": {
+    "string": "Has alcanzado tu límite de pedidos, se te cobrará extra por pedidos superiores al límite. Si deseas aumentar tu límite, contacta con el personal de administración para elevar tus límites."
+  },
+  "TSJRiZ": {
+    "context": "channel status title",
+    "string": "Estado del Canal"
+  },
+  "TTVPyd": {
+    "context": "dialog subheading",
+    "string": "Crear una transacción manual para pagos no integrados"
+  },
+  "TVR4E6": {
+    "string": "Abrir playground"
+  },
+  "TWVx7O": {
+    "context": "delete product dialog title",
+    "string": "Eliminar Producto"
+  },
+  "TZtvTG": {
+    "context": "table header required stock label",
+    "string": "Requerido"
+  },
+  "Ta9j04": {
+    "context": "orders section name",
+    "string": "Pedidos"
+  },
+  "Taa5V7": {
+    "context": "dialog subtitle",
+    "string": "Solo puedes agregar productos disponibles para el canal del pedido"
+  },
+  "TdTXXf": {
+    "string": "Aprender más"
+  },
+  "Tenl9A": {
+    "context": "grant refund, refund card toggle",
+    "string": "Reembolsar envío: {currency} {amount}"
+  },
+  "TfzIXS": {
+    "context": "tax classes card header",
+    "string": "Información general"
+  },
+  "TjGYna": {
+    "context": "product inventory, checkbox",
+    "string": "Rastrear Inventario"
+  },
+  "Tl+7X4": {
+    "context": "tabel column header",
+    "string": "Cantidad reembolsada"
+  },
+  "TnTi/a": {
+    "context": "pricing card title",
+    "string": "Precios"
+  },
+  "TnnDjx": {
+    "context": "Dry run sync events alert",
+    "string": "El modo de prueba no está disponible para eventos sincrónicos"
+  },
+  "TnyLrZ": {
+    "context": "PageTypeDeleteWarningDialog with items multiple description",
+    "string": "Estás a punto de eliminar varios tipos de páginas. Algunos de ellos están asignados a páginas. Eliminar estos tipos de página también eliminará esas páginas"
+  },
+  "TpPx7V": {
+    "context": "navigator placeholder",
+    "string": "Buscar Cliente"
+  },
+  "TxYWkD": {
+    "context": "page header, edit view",
+    "string": "Editar reembolso otorgado"
+  },
+  "U+79k0": {
+    "context": "order expiration card description",
+    "string": "El tiempo en días después de que los pedidos expirados serán eliminados. Rango permitido entre 1 y 120."
+  },
+  "U1eJIw": {
+    "context": "order history message",
+    "string": "Se añadieron productos a un pedido"
+  },
+  "U2WgwW": {
+    "context": "add custom select input option",
+    "string": "Agregar nuevo valor: {value}"
+  },
+  "U2mOqA": {
+    "string": "No se encontraron cupones"
+  },
+  "U5CH0u": {
+    "string": "¿Estás seguro de que quieres eliminar el ajuste preestablecido {name}?"
+  },
+  "U5Da30": {
+    "string": "Almacenes"
+  },
+  "U5aVd8": {
+    "context": "product",
+    "string": "Enviable"
+  },
+  "U8eeLW": {
+    "context": "button",
+    "string": "Asignar productos"
+  },
+  "U9CIo7": {
+    "context": "button",
+    "string": "Guardar variante"
+  },
+  "U9o2bV": {
+    "context": "no gift card products and types alert message",
+    "string": "{createGiftCardProductType} y {giftCardProduct} para comenzar a vender tarjetas de regalo en tu tienda."
+  },
+  "UBuKZ9": {
+    "context": "searchbar placeholder",
+    "string": "País"
+  },
+  "UIM5bq": {
+    "context": "charge status full",
+    "string": "Completo"
+  },
+  "UJ97Lb": {
+    "string": "Eliminar códigos"
+  },
+  "UJnqdm": {
+    "context": "dialog header",
+    "string": "Desasignar Atributo del Tipo de Producto"
+  },
+  "UKgP89": {
+    "context": "note input label",
+    "string": "Nota"
+  },
+  "UN+yTt": {
+    "string": "Configuración del Personal"
+  },
+  "UNwG+4": {
+    "context": "dialog content",
+    "string": "{counter,plural,one{¿Estás seguro de que deseas eliminar esta página?} other{¿Estás seguro de que deseas eliminar {displayQuantity} páginas?}}"
+  },
+  "UQ4Kuh": {
+    "context": "input label",
+    "string": "Buscar Miembros del Personal"
+  },
+  "UQu75k": {
+    "context": "dialog header",
+    "string": "Aprobar este cumplimiento"
+  },
+  "UR2wY+": {
+    "context": "tooltip, submit form",
+    "string": "El pedido no tiene transacciones. Debes enviar el reembolso manualmente."
+  },
+  "US3IPU": {
+    "string": "Descripción del motor de búsqueda"
+  },
+  "USO8PB": {
+    "context": "snackbar text",
+    "string": "Aplicación desactivada"
+  },
+  "USS3Q7": {
+    "context": "filters error messages unknown error",
+    "string": "Ocurrió un error desconocido"
+  },
+  "Uf3oHA": {
+    "context": "add new menu item",
+    "string": "Crear nuevo elemento"
+  },
+  "Uh9R9m": {
+    "context": "prepare order fulfillment, button",
+    "string": "Preparar cumplimiento"
+  },
+  "UhcALJ": {
+    "context": "attribute name",
+    "string": "Nombre"
+  },
+  "Uj2hj8": {
+    "context": "unassign variant from sale and save, button",
+    "string": "Desasignar y guardar"
+  },
+  "UjoSZB": {
+    "context": "dialog content",
+    "string": "{counter,plural,one{¿Estás seguro de que deseas desasignar esta colección?} other{¿Estás seguro de que deseas desasignar {displayQuantity} colecciones?}}"
+  },
+  "UjsI4o": {
+    "context": "date",
+    "string": "desde {date}"
+  },
+  "Um3g00": {
+    "context": "send to customer selected label",
+    "string": "Enviar tarjeta de regalo al cliente"
+  },
+  "Uo5/Ov": {
+    "context": "order return subtitle",
+    "string": "Los artículos devueltos no se pueden cumplir"
+  },
+  "Uo5MoU": {
+    "context": "product field",
+    "string": "Imágenes de Variante"
+  },
+  "Us9cA1": {
+    "context": "profit margin",
+    "string": "Margen"
+  },
+  "Utq1fE": {
+    "context": "customer gift cards card title",
+    "string": "Tarjetas de Regalo"
+  },
+  "Uu2B2G": {
+    "context": "gift card history message",
+    "string": "La tarjeta de regalo se usó como método de pago en el pedido {orderLink} <comprador>por</comprador>"
+  },
+  "Uu76vj": {
+    "context": "no categories",
+    "string": "No se encontraron categorías"
+  },
+  "UvD+xp": {
+    "context": "attribute values",
+    "string": "Valor {number}"
+  },
+  "Uwo+ai": {
+    "string": "Producto no disponible en canales de descuento"
+  },
+  "UxOcKE": {
+    "context": "order history message",
+    "string": "Solicitud de cargo de transacción"
+  },
+  "UxdBmI": {
+    "context": "collection availability",
+    "string": "Disponibilidad"
+  },
+  "UycVMp": {
+    "context": "button",
+    "string": "Crear subcategoría"
+  },
+  "UymotP": {
+    "context": "channel name",
+    "string": "Nombre del canal"
+  },
+  "V+fkAO": {
+    "context": "number of products in category",
+    "string": "Productos"
+  },
+  "V+gwx7": {
+    "context": "order payment",
+    "string": "Cantidad capturada"
+  },
+  "V+h02n": {
+    "context": "issued by label",
+    "string": "Emitido por"
+  },
+  "V/VAHG": {
+    "string": "Atributo eliminado"
+  },
+  "V/YxJa": {
+    "context": "dialog header",
+    "string": "Editar método de envío"
+  },
+  "V1MytH": {
+    "context": "shipping zones section name",
+    "string": "Zonas de envío"
+  },
+  "V1mqpZ": {
+    "context": "button",
+    "string": "Crear grupo de permisos"
+  },
+  "V2BBQu": {
+    "string": "La moneda en ambos canales debe ser la misma"
+  },
+  "V3fvcD": {
+    "context": "dialog content",
+    "string": "Venta eliminada"
+  },
+  "V45+rx": {
+    "context": "input label",
+    "string": "Tipo de página"
+  },
+  "V8FhTt": {
+    "context": "collection label",
+    "string": "Oculto"
+  },
+  "VCzrEZ": {
+    "context": "link",
+    "string": "Ver perfil"
+  },
+  "VDwkEZ": {
+    "context": "refunded event title",
+    "string": "Productos reembolsados por"
+  },
+  "VEE4gD": {
+    "context": "error message",
+    "string": "Método de envío no válido para la dirección de envío seleccionada"
+  },
+  "VEext+": {
+    "string": "¿Estás seguro de que quieres eliminar esta imagen?"
+  },
+  "VHuzgq": {
+    "context": "table actions",
+    "string": "Acciones"
+  },
+  "VI+X8H": {
+    "context": "no gift card product types alert message",
+    "string": "{createGiftCardProductType} para empezar a vender tarjetas de regalo en tu tienda."
+  },
+  "VIABHy": {
+    "context": "error message",
+    "string": "La zona de envío predeterminada ya existe"
+  },
+  "VIdXPy": {
+    "context": "value input helper text",
+    "string": "No puede ser mayor que el precio"
+  },
+  "VKWPBf": {
+    "context": "dialog header",
+    "string": "Eliminar avatar de usuario del personal"
+  },
+  "VKb1MS": {
+    "string": "Categorías"
+  },
+  "VNX4fn": {
+    "string": "Continuar"
+  },
+  "VOiUXQ": {
+    "string": "Usado para calcular tarifas de envío para productos de este tipo, cuando no se especifica un peso"
+  },
+  "VOjJWA": {
+    "context": "refund type",
+    "string": "Reembolsar productos"
+  },
+  "VSj89H": {
+    "context": "fulfill button label",
+    "string": "Cumplir de todas formas"
+  },
+  "VTITVe": {
+    "context": "section header",
+    "string": "Información del miembro del personal"
+  },
+  "VYK2nN": {
+    "string": "Detalles del producto"
+  },
+  "VZsE96": {
+    "string": "Nombre de la colección"
+  },
+  "VceXrc": {
+    "context": "initial balance filter label",
+    "string": "Saldo inicial"
+  },
+  "VdDcxc": {
+    "context": "button",
+    "string": "Crear colección"
+  },
+  "Vdy5g7": {
+    "context": "weight units type",
+    "string": "Peso"
+  },
+  "VkYZQ8": {
+    "string": "Permisos actuales"
+  },
+  "VmMDLN": {
+    "context": "permission list item description",
+    "string": "Este grupo es la última fuente de ese permiso"
+  },
+  "VrFy8e": {
+    "string": "Sin notas del cliente"
+  },
+  "VsGcdP": {
+    "context": "section header",
+    "string": "Permisos de la aplicación"
+  },
+  "Vtjlpw": {
+    "string": "La transacción no es única"
+  },
+  "Vu9nol": {
+    "context": "header",
+    "string": "Configuración de pedidos"
+  },
+  "VvFJ/T": {
+    "context": "PageTypeDeleteWarningDialog single no assigned items description",
+    "string": "¿Estás seguro de que quieres eliminar <b>{typeName}</b>? Si lo eliminas, no podrás asignarlo a las páginas creadas."
+  },
+  "VyC+Bm": {
+    "context": "radio button label",
+    "string": "Introduce el monto del reembolso sin usar la lista de productos. Ideal para cargos adicionales y ajustes personalizados."
+  },
+  "VyKl39": {
+    "context": "Dialog warning text",
+    "string": "¿Estás seguro de que quieres {actionType} esta transacción?"
+  },
+  "VyzsWZ": {
+    "string": "Dirección de facturación predeterminada"
+  },
+  "Vze3qI": {
+    "context": "column category descriptor",
+    "string": "Canales"
+  },
+  "W/Es0H": {
+    "string": "Pedido cancelado con éxito"
+  },
+  "W0kQd+": {
+    "context": "dialog title",
+    "string": "Agregar dirección"
+  },
+  "W2OIhn": {
+    "string": "Usar aplicación: {name}"
+  },
+  "W32xfN": {
+    "context": "staff member full name",
+    "string": "Nombre"
+  },
+  "W5SK5c": {
+    "string": "Seleccionar tipo de contenido"
+  },
+  "W5hb5H": {
+    "context": "warehouse input",
+    "string": "Almacén"
+  },
+  "W6nwjo": {
+    "string": "Borrador"
+  },
+  "W8i2Ez": {
+    "context": "product field",
+    "string": "Nombre"
+  },
+  "WCaf5C": {
+    "string": "Aprobar"
+  },
+  "WCg2GZ": {
+    "context": "change warehouse dialog search placeholder",
+    "string": "Buscar almacenes"
+  },
+  "WDrC7e": {
+    "context": "label",
+    "string": "Valor del enlace"
+  },
+  "WDy0tF": {
+    "context": "section header",
+    "string": "Información del webhook"
+  },
+  "WE8IFE": {
+    "context": "product name",
+    "string": "Producto"
+  },
+  "WFG7Zk": {
+    "context": "unassign attribute from page type, button",
+    "string": "Desasignar"
+  },
+  "WGp+Fw": {
+    "context": "order refund amount",
+    "string": "Costo de envío"
+  },
+  "WHgdsk": {
+    "string": "Agotado"
+  },
+  "WIxSDm": {
+    "context": "card header",
+    "string": "Tarifas de clase para {country}"
+  },
+  "WK62MN": {
+    "string": "Cumplimiento"
+  },
+  "WMGoqz": {
+    "context": "used by filter label",
+    "string": "Usado por"
+  },
+  "WMN0q+": {
+    "string": "Eliminar códigos de descuento"
+  },
+  "WQMTKI": {
+    "context": "list of warehouses",
+    "string": "Almacenes de la A a la Z"
+  },
+  "WR8rir": {
+    "context": "button",
+    "string": "Crear tarifa"
+  },
+  "WRPQMM": {
+    "context": "dialog content",
+    "string": "{counter,plural,one{¿Estás seguro de que quieres publicar esta página?} other{¿Estás seguro de que quieres publicar {displayQuantity} páginas?}}"
+  },
+  "WS4ov0": {
+    "context": "notifier message",
+    "string": "Nota añadida exitosamente"
+  },
+  "WTj17Z": {
+    "context": "dialog title item discount",
+    "string": "Descuento de artículo"
+  },
+  "WUf3Iu": {
+    "context": "percentage option",
+    "string": "Porcentaje"
+  },
+  "WW+Ruy": {
+    "string": "Producto eliminado de la colección"
+  },
+  "WWV8aZ": {
+    "context": "dialog title",
+    "string": "Eliminar valor de atributo"
+  },
+  "WY3IXU": {
+    "string": "Este código ya existe"
+  },
+  "WasHjQ": {
+    "context": "voucher discount",
+    "string": "Envío"
+  },
+  "WbV1Xm": {
+    "context": "button",
+    "string": "Configuración de pedidos"
+  },
+  "Wd8vG7": {
+    "context": "dialog content",
+    "string": "{counter,plural,one{¿Estás seguro de que quieres despublicar esta página?} other{¿Estás seguro de que quieres despublicar {displayQuantity} páginas?}}"
+  },
+  "WhKGPA": {
+    "context": "page title",
+    "string": "Configurar nueva contraseña"
+  },
+  "WhvuCb": {
+    "context": "plugins section name",
+    "string": "Plugins"
+  },
+  "WigK1f": {
+    "context": "helper text",
+    "string": "Todos los artículos reembolsados"
+  },
+  "WkxE8/": {
+    "context": "percentage or fixed, header",
+    "string": "Tipo de descuento"
+  },
+  "Wlc67M": {
+    "context": "error message",
+    "string": "No se puede elegir un método de envío para un pedido sin dirección de envío"
+  },
+  "Wm+KUd": {
+    "string": "Encabezados"
+  },
+  "WnlZMO": {
+    "context": "title",
+    "string": "Hay un problema con la aplicación."
+  },
+  "Wr5UOV": {
+    "context": "error message",
+    "string": "Error de inicio de sesión. Por favor, inténtalo de nuevo."
+  },
+  "WvMDHa": {
+    "context": "page status",
+    "string": "No publicado"
+  },
+  "Ww69SE": {
+    "context": "search input placeholder",
+    "string": "Buscar clases de impuestos"
+  },
+  "WwNtFn": {
+    "context": "delete product variant",
+    "string": "¿Estás seguro de que quieres eliminar {name}?"
+  },
+  "WwZfNK": {
+    "string": "Agrega un nuevo elemento de menú para comenzar a crear el menú"
+  },
+  "WyPitj": {
+    "context": "gift card bulk create success dialog title",
+    "string": "Emitir tarjetas de regalo en masa"
+  },
+  "Wyl25+": {
+    "context": "product inventory, checkbox description",
+    "string": "El seguimiento de inventario activo calculará automáticamente los cambios de stock"
+  },
+  "WzA5Ll": {
+    "string": "No se puede eliminar al usuario del último grupo"
+  },
+  "WzHfj8": {
+    "context": "successfully created gift card alert title",
+    "string": "Tarjeta de regalo creada exitosamente"
+  },
+  "X/K4LI": {
+    "context": "label",
+    "string": "Normal"
+  },
+  "X26jCC": {
+    "context": "page label",
+    "string": "Visible"
+  },
+  "X6PF8z": {
+    "context": "entity (product, collection, shipping method) name",
+    "string": "Nombre"
+  },
+  "X7fqfM": {
+    "context": "title",
+    "string": "Stock reservado"
+  },
+  "X8qjg3": {
+    "context": "inactive",
+    "string": "Inactivo"
+  },
+  "X90ElB": {
+    "context": "dialog header",
+    "string": "Eliminar Webhook"
+  },
+  "X90t9n": {
+    "context": "product type",
+    "string": "Configurable"
+  },
+  "XAPFHP": {
+    "context": "card update success alert title",
+    "string": "Saldo de tarjeta actualizado con éxito"
+  },
+  "XB2Jj9": {
+    "context": "create app button",
+    "string": "Crear aplicación"
+  },
+  "XBfvKN": {
+    "string": "Historial de pedidos"
+  },
+  "XBwpUv": {
+    "context": "product field",
+    "string": "Exportar peso de variante"
+  },
+  "XDBeA+": {
+    "context": "discount type",
+    "string": "Monto fijo"
+  },
+  "XFErUZ": {
+    "context": "Refund pending status",
+    "string": "Pendiente"
+  },
+  "XFtKV5": {
+    "context": "input placeholder tag",
+    "string": "Etiqueta"
+  },
+  "XGBsoK": {
+    "context": "dialog content",
+    "string": "¿Estás seguro de que quieres desasignar {counter,plural,one{este miembro} other{{displayQuantity} miembros}}?"
+  },
+  "XJSRDK": {
+    "context": "payment status",
+    "string": "Totalmente reembolsado"
+  },
+  "XLYssG": {
+    "context": "assign categories to sale and save",
+    "string": "Asignar y guardar"
+  },
+  "XMrYaA": {
+    "context": "checkbox label",
+    "string": "El usuario está activo"
+  },
+  "XMvH/d": {
+    "context": "button label",
+    "string": "ACEPTAR"
+  },
+  "XNeJay": {
+    "context": "section header",
+    "string": "Colecciones elegibles"
+  },
+  "XOkUxQ": {
+    "string": "Producto no disponible en canales de descuento"
+  },
+  "XPiJex": {
+    "context": "Transaction void button - return preauthorized amount to client",
+    "string": "Anular"
+  },
+  "XPruqs": {
+    "string": "Pedido"
+  },
+  "XQBVEJ": {
+    "context": "order return error description when cannot refund",
+    "string": "Hemos encontrado un problema al reembolsar los productos. Los productos no fueron reembolsados. Inténtalo de nuevo."
+  },
+  "XRf1Bi": {
+    "context": "order refunded success message",
+    "string": "Artículos reembolsados"
+  },
+  "XT/ZvF": {
+    "context": "voucher requirement",
+    "string": "Cantidad mínima de artículos"
+  },
+  "XUU9sU": {
+    "context": "section header",
+    "string": "Todos los medios"
+  },
+  "XVuPMw": {
+    "string": "¿Estás seguro de que quieres eliminar esta regla?"
+  },
+  "XWGZLL": {
+    "context": "transaction reference subtitle",
+    "string": "Referencia de la transacción"
+  },
+  "XYhE8p": {
+    "context": "edit attribute value",
+    "string": "Editar valor"
+  },
+  "XZR590": {
+    "context": "sale value",
+    "string": "Valor"
+  },
+  "Xb6BJ9": {
+    "context": "error message",
+    "string": "No se pueden reembolsar los pagos manuales"
+  },
+  "Xel9C+": {
+    "context": "navigator default mode description",
+    "string": "Buscar vistas y acciones"
+  },
+  "XgsXQv": {
+    "context": "order transaction refund summary label",
+    "string": "Total:"
+  },
+  "XitW/z": {
+    "string": "Categoría de traducción \"{categoryName}\" - {languageCode}"
+  },
+  "XkX56I": {
+    "context": "filters error messages value required",
+    "string": "Elige un valor"
+  },
+  "XlPKAR": {
+    "context": "WarehouseSettings private stock description",
+    "string": "Si está habilitado, el stock en este almacén no se mostrará"
+  },
+  "Xm9qOu": {
+    "context": "product pricing, section header",
+    "string": "Precios"
+  },
+  "Xsh2Pa": {
+    "context": "column picker search input placeholder",
+    "string": "Buscar columnas"
+  },
+  "Xtd0AT": {
+    "string": "Cadena original"
+  },
+  "XtlUj6": {
+    "string": "Agrega tu primera regla para configurar una promoción"
+  },
+  "Xu4ST7": {
+    "string": "No se han agregado condiciones, haz clic en el botón de abajo para crear una"
+  },
+  "Xu4ech": {
+    "context": "deactivate app",
+    "string": "¿Estás seguro de que quieres desactivar esta aplicación? Tus datos se conservarán hasta que reactives la aplicación."
+  },
+  "XwQQ1f": {
+    "context": "checkbox label description",
+    "string": "Todas las finalizaciones se aprobarán automáticamente"
+  },
+  "XwrKOi": {
+    "context": "unassign multiple attributes from item",
+    "string": "{counter,plural,one{¿Estás seguro de que quieres desasignar este atributo de {itemTypeName}?} other{¿Estás seguro de que quieres desasignar {attributeQuantity} atributos de {itemTypeName}?}}"
+  },
+  "Xy2T+y": {
+    "context": "header",
+    "string": "Editar campo de autorización"
+  },
+  "Xy48q5": {
+    "string": "Todos los webhooks registrados por esta aplicación. En caso de error en la entrega del webhook, se muestra una lista de intentos."
+  },
+  "Xz/sDf": {
+    "context": "Dry run items list item",
+    "string": "Artículo:"
+  },
+  "Y0NwOq": {
+    "context": "dialog subtitle",
+    "string": "Selecciona el método de reembolso:"
+  },
+  "Y1B0PN": {
+    "context": "error message",
+    "string": "No hay ningún pago asociado con el pedido"
+  },
+  "Y299ST": {
+    "context": "table column header",
+    "string": "Precio"
+  },
+  "Y3pCRX": {
+    "context": "attribute can be searched in storefront",
+    "string": "Usar como filtro"
+  },
+  "Y3zr/B": {
+    "context": "voucher application, switch button",
+    "string": "Aplicar solo al producto más barato elegible"
+  },
+  "Y4cy0i": {
+    "context": "dialog header",
+    "string": "Finalizar preventa"
+  },
+  "Y7M1YQ": {
+    "context": "section header",
+    "string": "Cliente"
+  },
+  "Y7UlMR": {
+    "context": "app extensions subsection",
+    "string": "Aplicaciones"
+  },
+  "Y9lv8z": {
+    "context": "product unavailability",
+    "string": "No disponible para la compra"
+  },
+  "YBqLHs": {
+    "context": "expiry date label",
+    "string": "Fecha exacta"
+  },
+  "YEpYMB": {
+    "context": "gift card export csv success alert title",
+    "string": "Exportando CSV"
+  },
+  "YEv+6G": {
+    "context": "input helper text",
+    "string": "Dejar esta configuración en blanco significa que el stock no se reservará"
+  },
+  "YFDAaX": {
+    "context": "dialog title order discount",
+    "string": "Descuento en este pedido:"
+  },
+  "YFQBs1": {
+    "context": "product availability date label",
+    "string": "Establecer fecha de disponibilidad"
+  },
+  "YHNozE": {
+    "context": "dialog header",
+    "string": "Activar aplicación"
+  },
+  "YI6Fhj": {
+    "context": "no address is set in draft order",
+    "string": "No establecido"
+  },
+  "YKyNm9": {
+    "context": "label",
+    "string": "Tarjeta de regalo"
+  },
+  "YMBn8d": {
+    "context": "draft orders section name",
+    "string": "Pedidos en borrador"
+  },
+  "YQ3EXR": {
+    "context": "product types section name",
+    "string": "Tipos de productos"
+  },
+  "YUaalK": {
+    "context": "Cancel in progress transaction amount, data display header",
+    "string": "Cancelación pendiente"
+  },
+  "YVIajc": {
+    "context": "product field",
+    "string": "Descripción"
+  },
+  "YYkkhx": {
+    "context": "navigator section header",
+    "string": "Navegar a"
+  },
+  "YZl6cv": {
+    "string": "Miscelánea"
+  },
+  "YdeHZX": {
+    "context": "unassign products from shipping method, button",
+    "string": "Desasignar"
+  },
+  "YgE6ga": {
+    "context": "imperial unit system",
+    "string": "Imperial"
+  },
+  "YiC3cn": {
+    "context": "option description",
+    "string": "Asignar stock en el primer almacén de la lista asignado a este canal. Si el stock es insuficiente, la cantidad restante se asigna en el siguiente almacén de la lista y se repite si es necesario."
+  },
+  "YicEbK": {
+    "string": "Buscar atributos"
+  },
+  "YjcN9w": {
+    "context": "time during voucher is active, header",
+    "string": "Fechas activas"
+  },
+  "YkOzse": {
+    "context": "used warehouses counter",
+    "string": "{count}/{max} almacenes utilizados"
+  },
+  "Ykw8k5": {
+    "context": "dialog title",
+    "string": "Eliminar colecciones"
+  },
+  "Yo2kC+": {
+    "string": "No se pudo procesar la imagen"
+  },
+  "Yo4h/D": {
+    "string": "Más información sobre permisos"
+  },
+  "YpLVVc": {
+    "context": "action",
+    "string": "Excluir códigos postales"
+  },
+  "YpukUN": {
+    "context": "label",
+    "string": "Nombre de la zona de envío"
+  },
+  "Ys86kI": {
+    "string": "El monto reembolsado no se devolverá automáticamente al cliente. Necesitarás decidir un método y reembolsar a través de la sección de balance de la orden."
+  },
+  "Yw+9F7": {
+    "string": "No se encontraron colecciones"
+  },
+  "Yxihwg": {
+    "context": "consent removal of gift cards with balance button label",
+    "string": "{selectedItemsCount,plural,one{Soy consciente de que estoy eliminando una tarjeta de regalo con saldo} other{Soy consciente de que estoy eliminando tarjetas de regalo con saldo}}"
+  },
+  "Yy/yDL": {
+    "string": "Restablecer contraseña"
+  },
+  "YzLUXA": {
+    "string": "Asegúrate de que este valor sea mayor que 0."
+  },
+  "Z/7hyu": {
+    "context": "card balance label",
+    "string": "Saldo de la tarjeta"
+  },
+  "Z3T6zR": {
+    "context": "card title",
+    "string": "Devolver y reemplazar"
+  },
+  "Z6QAbw": {
+    "string": "Esta variante no tiene contenido digital"
+  },
+  "Z7Tf8e": {
+    "context": "stock exceeded dialog description",
+    "string": "El stock de los artículos que se muestran a continuación no es suficiente para preparar el cumplimiento:"
+  },
+  "Z7lX6t": {
+    "context": "canceled fulfillment, section header",
+    "string": "Cancelado"
+  },
+  "Z8TzWt": {
+    "context": "refunded fulfillment, section header",
+    "string": "Devuelto"
+  },
+  "ZAaXfz": {
+    "context": "Taxes section title",
+    "string": "Países"
+  },
+  "ZBs2Pb": {
+    "string": "Regalo"
+  },
+  "ZCSOaS": {
+    "string": "Limitar el uso del código de descuento a una vez"
+  },
+  "ZDJEat": {
+    "context": "button",
+    "string": "Cargar más"
+  },
+  "ZFfG4L": {
+    "context": "ProductTypeDeleteWarningDialog single assigned items description",
+    "string": "Estás a punto de eliminar el tipo de producto <b>{typeName}</b>. Está asignado a {assignedItemsCount} {assignedItemsCount,plural,one{producto} other{productos}}. Eliminar este tipo de producto también eliminará esos productos. ¿Estás seguro de que quieres hacer esto?"
+  },
+  "ZHF4Z9": {
+    "context": "delete product dialog subtitle",
+    "string": "¿Estás seguro de que quieres eliminar {name}?"
+  },
+  "ZIc5lM": {
+    "string": "Nombre del producto"
+  },
+  "ZJOX8n": {
+    "context": "alert message",
+    "string": "El producto ya no existe"
+  },
+  "ZJPYFl": {
+    "context": "accepted header names",
+    "string": "Se aceptan encabezados con el siguiente formato: <code>authorization*</code>, <code>x-*</code>"
+  },
+  "ZMy18J": {
+    "string": "Has alcanzado el límite de canales, ya no podrás agregar canales a tu tienda. Si deseas aumentar tu límite, contacta a tu personal administrativo para elevarlo."
+  },
+  "ZOamBQ": {
+    "context": "charge status overcharged",
+    "string": "Cobro excesivo"
+  },
+  "ZPOyI1": {
+    "context": "fulfilled fulfillment, section header",
+    "string": "Cumplido desde {warehouseName}"
+  },
+  "ZRz3hM": {
+    "string": "Exportar cantidad de stock de producto a CSV"
+  },
+  "ZTG+Dv": {
+    "string": "Se creará automáticamente un pedido en borrador para los productos reemplazados"
+  },
+  "ZU1Kz8": {
+    "context": "empty state message",
+    "string": "No se han realizado reembolsos para este pedido."
+  },
+  "ZWIjvr": {
+    "context": "dialog header",
+    "string": "Eliminar ventas"
+  },
+  "ZayvsI": {
+    "context": "metric unit system",
+    "string": "Métrico"
+  },
+  "Zd3Eew": {
+    "context": "subsection header",
+    "string": "Dirección de envío"
+  },
+  "ZepEWY": {
+    "context": "Dry run item",
+    "string": "Artículo"
+  },
+  "Zg0dRo": {
+    "context": "dialog description",
+    "string": "Has cambiado el cliente asignado a este pedido. ¿Qué deseas hacer con la dirección de envío?"
+  },
+  "ZhDQel": {
+    "context": "header",
+    "string": "Contraseña"
+  },
+  "ZhqH8J": {
+    "context": "button",
+    "string": "Copiar encabezados"
+  },
+  "Zhxu58": {
+    "context": "Fixed amount subtitle",
+    "string": "Monto fijo"
+  },
+  "Zj/7QZ": {
+    "context": "details title",
+    "string": "Detalles"
+  },
+  "ZprV2g": {
+    "context": "app has been installed",
+    "string": "{name} está lista para ser utilizada"
+  },
+  "Zptsep": {
+    "context": "order was discounted event title",
+    "string": "El pedido fue descontado por"
+  },
+  "ZrIt1W": {
+    "string": "Eliminar descuento"
+  },
+  "ZuqkSp": {
+    "context": "note input subtitle",
+    "string": "Por qué se emitió esta tarjeta de regalo. Esta nota no se mostrará al cliente. La nota se almacenará en el historial de la tarjeta de regalo"
+  },
+  "Zz67wc": {
+    "string": "Ver y actualizar tus webhooks y eventos."
+  },
+  "a+iRI1": {
+    "context": "single gift card title",
+    "string": "{selectedItemsCount,plural,one{Eliminar tarjeta de regalo} other{Eliminar tarjetas de regalo}}"
+  },
+  "a+kgkq": {
+    "context": "tag label",
+    "string": "Etiqueta de tarjeta"
+  },
+  "a+x05s": {
+    "context": "select option, button",
+    "string": "Seleccionar"
+  },
+  "a/JR9Y": {
+    "context": "sale type order discount",
+    "string": "Descuento"
+  },
+  "a/QJBx": {
+    "context": "user action bar",
+    "string": "Acción"
+  },
+  "a1uffz": {
+    "context": "draft created from replace products list title",
+    "string": "Productos reemplazados"
+  },
+  "a55zOn": {
+    "context": "section header",
+    "string": "Privacidad de datos"
+  },
+  "a5msuh": {
+    "string": "Sí"
+  },
+  "a6GDem": {
+    "context": "tab name",
+    "string": "Todos los descuentos"
+  },
+  "a9S9Je": {
+    "context": "page types section name",
+    "string": "Tipos de página"
+  },
+  "aAAxKp": {
+    "context": "table column header",
+    "string": "Producto"
+  },
+  "aCJwVq": {
+    "context": "warehouse",
+    "string": "Nombre"
+  },
+  "aCX8rl": {
+    "context": "subheader",
+    "string": "Aquí tienes información que recopilamos sobre tu tienda"
+  },
+  "aEc9Ar": {
+    "context": "gift card history message",
+    "string": "El saldo de la tarjeta de regalo fue restablecido por {resetBy}"
+  },
+  "aFU0vm": {
+    "context": "description",
+    "string": "o continuar con"
+  },
+  "aFVFeH": {
+    "context": "submit button",
+    "string": "Agregar captura manual"
+  },
+  "aHc89n": {
+    "context": "select warehouse to restock items",
+    "string": "Seleccionar almacén"
+  },
+  "aI80kg": {
+    "string": "Propiedades"
+  },
+  "aJm/by": {
+    "context": "Taxes section title",
+    "string": "Clases de impuestos"
+  },
+  "aKSUWR": {
+    "string": "No se puede crear transacción para pedido inexistente"
+  },
+  "aMWJ7/": {
+    "context": "local error",
+    "string": "Este campo no puede estar en blanco para un nuevo webhook"
+  },
+  "aMwxYb": {
+    "string": "Países"
+  },
+  "aOelhW": {
+    "context": "tab name",
+    "string": "Todos los plugins"
+  },
+  "aPCrsp": {
+    "context": "shipping method name",
+    "string": "Nombre"
+  },
+  "aPYFO1": {
+    "context": "expired status label",
+    "string": "Expirado"
+  },
+  "aPqizA": {
+    "context": "ProductTypeDeleteWarningDialog multiple assigned items description",
+    "string": "¿Estás seguro de que quieres eliminar los tipos de producto seleccionados? Si los eliminas, no podrás asignarlos a los productos creados."
+  },
+  "aY0HAT": {
+    "context": "section header",
+    "string": "Canal de ventas"
+  },
+  "aYhcie": {
+    "context": "shipping method weight range",
+    "string": "Rango de peso"
+  },
+  "aZDHYr": {
+    "context": "price rates info",
+    "string": "Esta tarifa se aplicará a todos los pedidos"
+  },
+  "aasX8r": {
+    "context": "label",
+    "string": "Tipo de enlace"
+  },
+  "abTH5q": {
+    "context": "error message",
+    "string": "No se ha establecido la dirección de correo electrónico"
+  },
+  "abpvEI": {
+    "string": "Eliminar permisos puede causar fallos en la aplicación."
+  },
+  "ac+Y98": {
+    "context": "app settings error",
+    "string": "Error al obtener la configuración de la aplicación"
+  },
+  "acgbDa": {
+    "context": "product created at",
+    "string": "Creado el"
+  },
+  "agZQkB": {
+    "context": "window title",
+    "string": "Crear aplicación"
+  },
+  "aggaJg": {
+    "string": "Este atributo ya ha sido asignado a este tipo de producto"
+  },
+  "aheQdn": {
+    "string": "Apellido"
+  },
+  "akXDST": {
+    "context": "section header",
+    "string": "Visibilidad"
+  },
+  "amQg6f": {
+    "context": "voucher status",
+    "string": "Activo"
+  },
+  "anK7jD": {
+    "string": "Tipo de producto"
+  },
+  "aq5ZiN": {
+    "context": "order history message",
+    "string": "La confirmación de cumplimiento fue enviada al cliente"
+  },
+  "auxEP1": {
+    "context": "input placeholder",
+    "string": "Buscar por nombre de atributo"
+  },
+  "avj76v": {
+    "context": "ChannelsSection subtitle",
+    "string": "Asigna canales a esta zona de envío para saber qué pedidos serán soportados"
+  },
+  "awNXI/": {
+    "string": "Generar códigos automáticamente"
+  },
+  "axFFaD": {
+    "context": "range input label",
+    "string": "Códigos postales (fin)"
+  },
+  "azj0kR": {
+    "string": "Agregar permisos permite que la aplicación tenga más acceso a tus datos."
   }
 }
