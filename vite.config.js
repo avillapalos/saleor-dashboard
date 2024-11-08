@@ -63,6 +63,9 @@ export default defineConfig(({ command, mode }) => {
     SENTRY_PROJECT,
     // eslint-disable-next-line camelcase
     npm_package_version,
+    TENANT_LOGO_URL_LIGHT,
+    TENANT_LOGO_URL_DARK,
+    CMS_URL,
   } = env;
 
   const base = STATIC_URL ?? "/";
@@ -168,6 +171,9 @@ export default defineConfig(({ command, mode }) => {
         POSTHOG_HOST,
         // eslint-disable-next-line camelcase
         RELEASE_NAME: npm_package_version,
+        TENANT_LOGO_URL_LIGHT,
+        TENANT_LOGO_URL_DARK,
+        CMS_URL,
       },
     },
     build: {

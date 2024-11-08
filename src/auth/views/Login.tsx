@@ -35,6 +35,10 @@ const LoginView: React.FC<LoginViewProps> = ({ params }) => {
     const result = await login!(data.email, data.password);
     const errors = result?.errors || [];
 
+    if (errors.length === 0) {
+      navigate("/welcome");
+    }
+
     return errors;
   };
   const handleRequestExternalAuthentication = async (pluginId: string) => {

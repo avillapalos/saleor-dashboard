@@ -6,6 +6,11 @@ const isAppPath = (pathname: string) =>
     path: `${AppSections.appsSection}:id`,
   });
 
+const isWelcomePath = (pathname: string) =>
+  !!matchPath(pathname, {
+    path: `${AppSections.welcomeSection}`,
+  });
+
 /*
  * Use detailed information about the current location.
  */
@@ -14,5 +19,6 @@ export const useLocationState = () => {
 
   return {
     isAppPath: isAppPath(location.pathname),
+    isWelcomePath: isWelcomePath(location.pathname),
   };
 };

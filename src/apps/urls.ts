@@ -35,6 +35,7 @@ export type AppInstallUrlQueryParams = Partial<{ [MANIFEST_ATTR]: string }>;
 
 export const AppSections = {
   appsSection: "/apps/",
+  welcomeSection: "/welcome",
 };
 
 export const AppPaths = {
