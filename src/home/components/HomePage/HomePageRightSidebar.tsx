@@ -5,7 +5,6 @@ import { Activities, HomeData } from "@dashboard/home/types";
 import * as React from "react";
 
 import { HomeActivityCard } from "../HomeActivityCard";
-import { HomeGetInTouchCard } from "./HomeGetInTouch";
 
 export interface HomePageRightSidebarProps {
   activities?: HomeData<Activities>;
@@ -13,7 +12,7 @@ export interface HomePageRightSidebarProps {
 
 export const HomePageRightSidebar: React.FC<HomePageRightSidebarProps> = ({ activities }) => (
   <DetailPageLayout.RightSidebar>
-    <HomeGetInTouchCard />
+    {/*<HomeGetInTouchCard />*/}
 
     {activities && (
       <RequirePermissions requiredPermissions={[PermissionEnum.MANAGE_ORDERS]}>
