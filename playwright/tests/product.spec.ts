@@ -32,6 +32,7 @@ test("TC: SALEOR_3 Create basic product with variants @e2e @product", async () =
 });
 test("TC: SALEOR_5 Create basic - single product type - product without variants @e2e @product", async () => {
   await productPage.gotoCreateProductPage(PRODUCTS.singleProductType.id);
+  await productPage.gotoCreateMinimalProductPage(PRODUCTS.singleProductType.id);
   await productPage.rightSideDetailsPage.selectOneChannelAsAvailableWhenMoreSelected("Channel-PLN");
   await productPage.typeNameDescAndRating();
   await productPage.addSeo();

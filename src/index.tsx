@@ -240,6 +240,11 @@ const Routes: React.FC = () => {
                       component={ProductSection}
                     />
                     <SectionRoute
+                      permissions={[PermissionEnum.MANAGE_PRODUCTS]}
+                      path="/minimal-products"
+                      component={ProductSection}
+                    />
+                    <SectionRoute
                       permissions={[PermissionEnum.MANAGE_PRODUCT_TYPES_AND_ATTRIBUTES]}
                       path="/product-types"
                       component={ProductTypesSection}

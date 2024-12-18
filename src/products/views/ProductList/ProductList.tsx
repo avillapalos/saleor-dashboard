@@ -42,7 +42,7 @@ import {
 } from "@dashboard/products/components/ProductListPage/utils";
 import ProductTypePickerDialog from "@dashboard/products/components/ProductTypePickerDialog";
 import {
-  productAddUrl,
+  minimalProductAddUrl,
   productListUrl,
   ProductListUrlDialog,
   ProductListUrlQueryParams,
@@ -399,7 +399,7 @@ export const ProductList: React.FC<ProductListProps> = ({ params }) => {
         onClose={closeModal}
         onConfirm={productTypeId =>
           navigate(
-            productAddUrl({
+            minimalProductAddUrl({
               "product-type-id": productTypeId,
             }),
           )

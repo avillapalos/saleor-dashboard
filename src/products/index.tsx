@@ -10,6 +10,7 @@ import { RouteComponentProps, Switch } from "react-router-dom";
 
 import { WindowTitle } from "../components/WindowTitle";
 import {
+  minimalProductAddPath,
   productAddPath,
   ProductCreateUrlQueryParams,
   productImagePath,
@@ -24,6 +25,7 @@ import {
   productVariantEditPath,
   ProductVariantEditUrlQueryParams,
 } from "./urls";
+import MinimalProductCreateComponent from "./views/MinimalProductCreate";
 import ProductCreateComponent from "./views/ProductCreate";
 import ProductImageComponent from "./views/ProductImage";
 import ProductListComponent from "./views/ProductList";
@@ -82,6 +84,12 @@ const ProductCreate: React.FC<RouteComponentProps<any>> = () => {
 
   return <ProductCreateComponent params={params} />;
 };
+const MinimalProductCreate: React.FC<RouteComponentProps<any>> = () => {
+  const qs = parseQs(location.search.substr(1));
+  const params: ProductCreateUrlQueryParams = qs;
+
+  return <MinimalProductCreateComponent params={params} />;
+};
 const ProductVariant: React.FC<RouteComponentProps<matchParamsProductVariant>> = ({ match }) => {
   const qs = parseQs(location.search.substr(1));
   const params: ProductVariantEditUrlQueryParams = qs;
@@ -126,6 +134,7 @@ const Component = () => {
       <Switch>
         <Route exact path={productListPath} component={ProductList} />
         <Route exact path={productAddPath} component={ProductCreate} />
+        <Route exact path={minimalProductAddPath} component={MinimalProductCreate} />
         <Route exact path={productVariantAddPath(":id")} component={ProductVariantCreate} />
         <Route
           path={productVariantEditPath(":productId", ":variantId")}

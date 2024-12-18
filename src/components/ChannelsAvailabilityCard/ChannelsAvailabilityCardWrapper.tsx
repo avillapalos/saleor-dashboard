@@ -33,7 +33,7 @@ export const ChannelsAvailabilityCardWrapper: React.FC<
   );
 
   return (
-    <DashboardCard>
+    <DashboardCard style={{ display: "none" }}>
       <DashboardCard.Header>
         <DashboardCard.Title>
           {intl.formatMessage({

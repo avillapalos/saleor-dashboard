@@ -96,6 +96,15 @@ export class ProductPage extends BasePage {
     await this.pageHeader.waitFor({ state: "visible", timeout: 50000 });
   }
 
+  async gotoCreateMinimalProductPage(productTypeId: string) {
+    const createMinimalProductUrl = `${URL_LIST.minimalProducts}${URL_LIST.productsAdd}${productTypeId}`;
+
+    await console.log("Navigating to create minimal product view: " + createMinimalProductUrl);
+    await this.page.goto(createMinimalProductUrl);
+    await this.waitForDOMToFullyLoad();
+    await this.pageHeader.waitFor({ state: "visible", timeout: 50000 });
+  }
+
   async searchforProduct(productName: string) {
     await this.searchInput.fill(productName);
     await this.waitForGrid();

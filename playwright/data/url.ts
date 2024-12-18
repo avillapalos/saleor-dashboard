@@ -1,5 +1,6 @@
 export const URL_LIST = {
   addProduct: "products/add",
+  addMinimalProduct: "minimal-products/add",
   addPageType: "pages/add?page-type-id=",
   apps: "apps/",
   attributes: "attributes/",
@@ -21,6 +22,7 @@ export const URL_LIST = {
   permissionsGroups: "permission-groups/",
   plugins: "plugins/",
   products: "products/",
+  minimalProducts: "minimal-products/",
   productsAdd: "add?product-type-id=",
   productTypes: "product-types/",
   productTypesAdd: "product-types/add",

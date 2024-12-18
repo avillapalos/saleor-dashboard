@@ -37,6 +37,7 @@ interface SeoFormProps {
   titlePlaceholder: string;
   onChange: (event: any) => any;
   onClick?: () => any;
+  style?: React.CSSProperties;
 }
 
 export const SeoForm: React.FC<SeoFormProps> = props => {
@@ -51,6 +52,7 @@ export const SeoForm: React.FC<SeoFormProps> = props => {
     slugPlaceholder,
     titlePlaceholder,
     onChange,
+    style,
   } = props;
   const intl = useIntl();
   const getSlugHelperMessage = () => {
@@ -77,7 +79,7 @@ export const SeoForm: React.FC<SeoFormProps> = props => {
   const getError = (fieldName: SeoField) => getFieldError(errors, fieldName);
 
   return (
-    <DashboardCard paddingTop={6}>
+    <DashboardCard paddingTop={6} style={style}>
       <DashboardCard.Content>
         <Accordion>
           <Accordion.Item value="seo-accordion">

@@ -17,10 +17,14 @@ import {
 import { stringifyQs } from "../utils/urls";
 
 const productSection = "/products/";
+const minimalProductSection = "/minimal-products/";
 
 export const productAddPath = urlJoin(productSection, "add");
+export const minimalProductAddPath = urlJoin(minimalProductSection, "add");
 export const productAddUrl = (params?: ProductCreateUrlQueryParams) =>
   productAddPath + "?" + stringifyQs(params);
+export const minimalProductAddUrl = (params?: ProductCreateUrlQueryParams) =>
+  minimalProductAddPath + "?" + stringifyQs(params);
 
 export const productListPath = productSection;
 export type ProductListUrlDialog = "delete" | "export" | "create-product" | TabActionDialog;
