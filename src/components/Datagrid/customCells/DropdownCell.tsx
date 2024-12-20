@@ -1,4 +1,4 @@
-import { Combobox } from "@dashboard/components/Combobox";
+import { SimpleCombobox } from "@dashboard/components/Combobox/components/SimpleCombobox";
 import {
   CustomCell,
   CustomRenderer,
@@ -8,7 +8,7 @@ import {
 } from "@glideapps/glide-data-grid";
 import { Option } from "@saleor/macaw-ui-next";
 import pick from "lodash/pick";
-import React from "react";
+import React, { useEffect } from "react";
 
 export type DropdownCellGetSuggestionsFn = (text: string) => Promise<Option[]>;
 export interface DropdownCellProps {
@@ -32,10 +32,23 @@ const DropdownCellEdit: ReturnType<ProvideEditorCallback<DropdownCell>> = ({
   onFinishedEditing,
 }) => {
   const [data, setData] = React.useState<Option[]>([]);
+  const isMounted = React.useRef(true);
+
+  useEffect(() => {
+    isMounted.current = true;
+
+    return () => {
+      isMounted.current = false; // Set to false when unmounted
+    };
+  }, []);
 
   const getChoices = React.useCallback(
     async (text: string) => {
-      setData((await cell.data?.update?.(text)) ?? []);
+      const fetchedData = (await cell.data?.update?.(text)) ?? [];
+
+      if (isMounted.current) {
+        setData(fetchedData); // Update state only if the component is still mounted
+      }
     },
     [cell.data],
   );
@@ -46,19 +59,12 @@ const DropdownCellEdit: ReturnType<ProvideEditorCallback<DropdownCell>> = ({
     : { fetchOnFocus: false, fetchChoices: () => Promise.resolve([]), choices: cell.data.choices };
 
   return (
-    <Combobox
+    <SimpleCombobox
       allowCustomValues={userProps.allowCustomValues}
-      alwaysFetchOnFocus={props.fetchOnFocus}
       allowEmptyValue={userProps.emptyOption}
-      fetchMore={{
-        hasMore: false,
-        loading: false,
-        onFetchMore: () => undefined,
-      }}
       options={props.choices ?? []}
       value={cell.data.value}
       fetchOptions={props.fetchChoices}
-      loading={false}
       name=""
       onChange={event => {
         return onFinishedEditing({
