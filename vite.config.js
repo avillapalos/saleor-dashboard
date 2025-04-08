@@ -73,7 +73,7 @@ export default defineConfig(({ command, mode }) => {
     Object.entries(env).filter(([flagKey]) => flagKey.startsWith("FF_")),
   );
 
-  const sourcemap = !SKIP_SOURCEMAPS;
+  const sourcemap = isDev;
 
   const plugins = [
     react(),
@@ -197,6 +197,14 @@ export default defineConfig(({ command, mode }) => {
           sourcemap,
           manualChunks: id => {
             if (id.includes("node_modules")) {
+              if (id.includes("react")) return "react-vendor";
+
+              if (id.includes("editorjs")) return "editorjs-vendor";
+
+              if (id.includes("apollo")) return "apollo-vendor";
+
+              if (id.includes("moment")) return "moment-vendor";
+
               return "vendor";
             }
           },
