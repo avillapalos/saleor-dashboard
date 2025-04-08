@@ -197,14 +197,6 @@ export default defineConfig(({ command, mode }) => {
           sourcemap,
           manualChunks: id => {
             if (id.includes("node_modules")) {
-              if (id.includes("react")) return "react-vendor";
-
-              if (id.includes("editorjs")) return "editorjs-vendor";
-
-              if (id.includes("apollo")) return "apollo-vendor";
-
-              if (id.includes("moment")) return "moment-vendor";
-
               return "vendor";
             }
           },
