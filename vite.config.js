@@ -73,7 +73,7 @@ export default defineConfig(({ command, mode }) => {
     Object.entries(env).filter(([flagKey]) => flagKey.startsWith("FF_")),
   );
 
-  const sourcemap = !SKIP_SOURCEMAPS;
+  const sourcemap = isDev;
 
   const plugins = [
     react(),
